@@ -1,0 +1,196 @@
+{
+  "main_analysis_repeated_cv": {
+    "Random Forest": {
+      "mean": 0.8788461538461538,
+      "sd": 0.031664330859560184,
+      "n_folds": 40
+    },
+    "XGBoost": {
+      "mean": 0.8387820512820513,
+      "sd": 0.04155715644922281,
+      "n_folds": 40
+    }
+  },
+  "without_family_level_records": {
+    "Random Forest": {
+      "mean": 0.8768198906356801,
+      "sd": 0.021971690175932257,
+      "n_folds": 40
+    },
+    "XGBoost": {
+      "mean": 0.8408321941216677,
+      "sd": 0.03429012447275365,
+      "n_folds": 40
+    }
+  },
+  "single_omim_entries_only": {
+    "Random Forest": {
+      "mean": 0.886117117117117,
+      "sd": 0.03338739224923754,
+      "n_folds": 40
+    },
+    "XGBoost": {
+      "mean": 0.8447252252252252,
+      "sd": 0.03823234236956133,
+      "n_folds": 40
+    }
+  },
+  "grouped_folds": {
+    "Random Forest": {
+      "mean": 0.877195747290684,
+      "sd": 0.026672969420738473,
+      "n_folds": 40
+    },
+    "XGBoost": {
+      "mean": 0.8455209347614412,
+      "sd": 0.03835023413558091,
+      "n_folds": 40
+    }
+  },
+  "test_set_without_family_level_records": {
+    "Random Forest": {
+      "n_test": 78,
+      "correct_full_model": 68,
+      "correct_retrained_without_family_level": 68
+    },
+    "XGBoost": {
+      "n_test": 78,
+      "correct_full_model": 63,
+      "correct_retrained_without_family_level": 61
+    }
+  },
+  "hpo_filter_fitted_on_training_data": {
+    "test_set": {
+      "Random Forest": {
+        "n_hpo_features": 896,
+        "n_correct": 69,
+        "n_test": 79,
+        "accuracy": 0.8734177215189873,
+        "f1_weighted": 0.8563871079693866,
+        "top_3_accuracy": 0.9873417721518988
+      },
+      "XGBoost": {
+        "n_hpo_features": 896,
+        "n_correct": 64,
+        "n_test": 79,
+        "accuracy": 0.810126582278481,
+        "f1_weighted": 0.7981987731801581,
+        "top_3_accuracy": 0.9493670886075949
+      }
+    },
+    "repeated_cv_accuracy": {
+      "Random Forest": {
+        "mean": 0.8759615384615383,
+        "sd": 0.03198711525608885,
+        "n_folds": 40
+      },
+      "XGBoost": {
+        "mean": 0.8362179487179487,
+        "sd": 0.04539587813462974,
+        "n_folds": 40
+      }
+    }
+  },
+  "primary_and_motile_ciliopathy_families": {
+    "families": [
+      "Autosomal Dominant Polycystic Kidney Disease",
+      "Bardet\u2013Biedl Syndrome",
+      "Cranioectodermal Dysplasia",
+      "Joubert Syndrome",
+      "Juvenile Myoclonic Epilepsy",
+      "Leber Congenital Amaurosis",
+      "Meckel\u2013Gruber Syndrome",
+      "Nephronophthisis",
+      "Orofaciodigital Syndrome",
+      "Primary Ciliary Dyskinesia",
+      "Senior-L\u00f8ken Syndrome",
+      "Short-rib Thoracic Dysplasia",
+      "Spondylometaphyseal Dysplasia"
+    ],
+    "n_records": 220,
+    "n_train": 176,
+    "n_test": 44,
+    "repeated_cv": {
+      "Random Forest": {
+        "accuracy": {
+          "mean": 0.859090909090909,
+          "sd": 0.047784126421524034,
+          "n_folds": 40
+        },
+        "f1_weighted": {
+          "mean": 0.8512347279317533,
+          "sd": 0.05169893369123389,
+          "n_folds": 40
+        },
+        "top3_accuracy": {
+          "mean": 0.975,
+          "sd": 0.017679542461758742,
+          "n_folds": 40
+        }
+      },
+      "XGBoost": {
+        "accuracy": {
+          "mean": 0.8369318181818182,
+          "sd": 0.047697432118792814,
+          "n_folds": 40
+        },
+        "f1_weighted": {
+          "mean": 0.8235103953952901,
+          "sd": 0.05271156399101081,
+          "n_folds": 40
+        },
+        "top3_accuracy": {
+          "mean": 0.9602272727272727,
+          "sd": 0.02711199723648746,
+          "n_folds": 40
+        }
+      }
+    },
+    "test_set_retrained": {
+      "Random Forest": {
+        "n_correct": 40,
+        "n_test": 44,
+        "accuracy": 0.9090909090909091,
+        "f1_weighted": 0.9078512396694215,
+        "top_3_accuracy": 0.9772727272727273
+      },
+      "XGBoost": {
+        "n_correct": 36,
+        "n_test": 44,
+        "accuracy": 0.8181818181818182,
+        "f1_weighted": 0.8049669628616997,
+        "top_3_accuracy": 0.9545454545454546
+      }
+    }
+  },
+  "main_models_test_set_by_ciliopathy_class": {
+    "Random Forest": {
+      "Primary": {
+        "n_correct": 30,
+        "n_test": 34
+      },
+      "Motile": {
+        "n_correct": 10,
+        "n_test": 10
+      },
+      "Secondary": {
+        "n_correct": 29,
+        "n_test": 35
+      }
+    },
+    "XGBoost": {
+      "Primary": {
+        "n_correct": 25,
+        "n_test": 34
+      },
+      "Motile": {
+        "n_correct": 10,
+        "n_test": 10
+      },
+      "Secondary": {
+        "n_correct": 28,
+        "n_test": 35
+      }
+    }
+  }
+}

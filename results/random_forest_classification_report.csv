@@ -1,0 +1,24 @@
+,precision,recall,f1-score,support
+Autosomal Dominant Polycystic Kidney Disease,1.0,1.0,1.0,1.0
+Bardet–Biedl Syndrome,0.8333333333333334,1.0,0.9090909090909091,5.0
+Cone-Rod Dystrophy,0.5,0.2,0.2857142857142857,5.0
+Cornelia de Lange Syndrome,0.0,0.0,0.0,1.0
+Cranioectodermal Dysplasia,0.5,1.0,0.6666666666666666,1.0
+Holoprosencephaly,0.6666666666666666,1.0,0.8,2.0
+Joubert Syndrome,0.875,0.875,0.875,8.0
+Juvenile Myoclonic Epilepsy,1.0,1.0,1.0,1.0
+Leber Congenital Amaurosis,0.8,1.0,0.8888888888888888,4.0
+Meckel–Gruber Syndrome,0.75,1.0,0.8571428571428571,3.0
+Nephronophthisis,1.0,0.6666666666666666,0.8,3.0
+Orofaciodigital Syndrome,1.0,0.5,0.6666666666666666,2.0
+Primary Ciliary Dyskinesia,1.0,1.0,1.0,9.0
+Retinitis Pigmentosa,0.8235294117647058,0.9333333333333333,0.875,15.0
+Senior-Løken Syndrome,1.0,1.0,1.0,2.0
+Short-rib Thoracic Dysplasia,1.0,0.75,0.8571428571428571,4.0
+Spinocerebellar Ataxia,1.0,1.0,1.0,8.0
+Spondylometaphyseal Dysplasia,1.0,1.0,1.0,1.0
+Usher Syndrome,1.0,1.0,1.0,2.0
+Visceral Heterotaxy,1.0,1.0,1.0,2.0
+accuracy,0.8734177215189873,0.8734177215189873,0.8734177215189873,0.8734177215189873
+macro avg,0.8374264705882354,0.8462500000000001,0.8240656565656567,79.0
+weighted avg,0.8645941921072228,0.8734177215189873,0.8563871079693866,79.0

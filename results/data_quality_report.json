@@ -1,0 +1,198 @@
+{
+  "records_before": 400,
+  "removed_no_hpo": [
+    {
+      "disease_id": "CILP_0030",
+      "omim_phenotype_number": "615992",
+      "phenotype_label": "Bardet–Biedl Syndrome [OMIM phenotype 615992]",
+      "disease_family": "Bardet–Biedl Syndrome"
+    },
+    {
+      "disease_id": "CILP_0166",
+      "omim_phenotype_number": "615360",
+      "phenotype_label": "Leber Congenital Amaurosis [OMIM phenotype 615360]",
+      "disease_family": "Leber Congenital Amaurosis"
+    }
+  ],
+  "removed_same_family_duplicates": [
+    {
+      "disease_id": "CILP_0013",
+      "omim_phenotype_number": "No MIM Number",
+      "phenotype_label": "Autosomal Dominant Polycystic Kidney Disease [OMIM phenotype No MIM Number]",
+      "disease_family": "Autosomal Dominant Polycystic Kidney Disease"
+    },
+    {
+      "disease_id": "CILP_0080",
+      "omim_phenotype_number": null,
+      "phenotype_label": "Cornelia de Lange Syndrome [OMIM phenotype nan]",
+      "disease_family": "Cornelia de Lange Syndrome"
+    },
+    {
+      "disease_id": "CILP_0322",
+      "omim_phenotype_number": "615565",
+      "phenotype_label": "Retinitis Pigmentosa [OMIM phenotype 615565]",
+      "disease_family": "Retinitis Pigmentosa"
+    },
+    {
+      "disease_id": "CILP_0414",
+      "omim_phenotype_number": "617931",
+      "phenotype_label": "Spinocerebellar Ataxia [OMIM phenotype 617931]",
+      "disease_family": "Spinocerebellar Ataxia"
+    },
+    {
+      "disease_id": "CILP_0430",
+      "omim_phenotype_number": "276904",
+      "phenotype_label": "Usher Syndrome [OMIM phenotype 276904]",
+      "disease_family": "Usher Syndrome"
+    },
+    {
+      "disease_id": "CILP_0433",
+      "omim_phenotype_number": "605472",
+      "phenotype_label": "Usher Syndrome [OMIM phenotype 605472]",
+      "disease_family": "Usher Syndrome"
+    },
+    {
+      "disease_id": "CILP_0450",
+      "omim_phenotype_number": "No MIM Number",
+      "phenotype_label": "Visceral Heterotaxy [OMIM phenotype No MIM Number]",
+      "disease_family": "Visceral Heterotaxy"
+    }
+  ],
+  "identical_profiles_different_families": [
+    [
+      {
+        "disease_id": "CILP_0158",
+        "omim_phenotype_number": "612712",
+        "phenotype_label": "Leber Congenital Amaurosis [OMIM phenotype 612712]",
+        "disease_family": "Leber Congenital Amaurosis"
+      },
+      {
+        "disease_id": "CILP_0294",
+        "omim_phenotype_number": "612712",
+        "phenotype_label": "Retinitis Pigmentosa [OMIM phenotype 612712]",
+        "disease_family": "Retinitis Pigmentosa"
+      }
+    ],
+    [
+      {
+        "disease_id": "CILP_0065",
+        "omim_phenotype_number": "613660",
+        "phenotype_label": "Cone-Rod Dystrophy [OMIM phenotype 613660]",
+        "disease_family": "Cone-Rod Dystrophy"
+      },
+      {
+        "disease_id": "CILP_0303",
+        "omim_phenotype_number": "613660",
+        "phenotype_label": "Retinitis Pigmentosa [OMIM phenotype 613660]",
+        "disease_family": "Retinitis Pigmentosa"
+      }
+    ],
+    [
+      {
+        "disease_id": "CILP_0066",
+        "omim_phenotype_number": "614500",
+        "phenotype_label": "Cone-Rod Dystrophy [OMIM phenotype 614500]",
+        "disease_family": "Cone-Rod Dystrophy"
+      },
+      {
+        "disease_id": "CILP_0320",
+        "omim_phenotype_number": "614500",
+        "phenotype_label": "Retinitis Pigmentosa [OMIM phenotype 614500]",
+        "disease_family": "Retinitis Pigmentosa"
+      }
+    ],
+    [
+      {
+        "disease_id": "CILP_0154",
+        "omim_phenotype_number": "608133",
+        "phenotype_label": "Leber Congenital Amaurosis [OMIM phenotype 608133]",
+        "disease_family": "Leber Congenital Amaurosis"
+      },
+      {
+        "disease_id": "CILP_0284",
+        "omim_phenotype_number": "608133",
+        "phenotype_label": "Retinitis Pigmentosa [OMIM phenotype 608133]",
+        "disease_family": "Retinitis Pigmentosa"
+      }
+    ],
+    [
+      {
+        "disease_id": "CILP_0129",
+        "omim_phenotype_number": "617562",
+        "phenotype_label": "Joubert Syndrome [OMIM phenotype 617562]",
+        "disease_family": "Joubert Syndrome"
+      },
+      {
+        "disease_id": "CILP_0183",
+        "omim_phenotype_number": "617562",
+        "phenotype_label": "Meckel–Gruber Syndrome [OMIM phenotype 617562]",
+        "disease_family": "Meckel–Gruber Syndrome"
+      }
+    ],
+    [
+      {
+        "disease_id": "CILP_0111",
+        "omim_phenotype_number": "613820",
+        "phenotype_label": "Joubert Syndrome [OMIM phenotype 613820]",
+        "disease_family": "Joubert Syndrome"
+      },
+      {
+        "disease_id": "CILP_0197",
+        "omim_phenotype_number": "613820",
+        "phenotype_label": "Nephronophthisis [OMIM phenotype 613820]",
+        "disease_family": "Nephronophthisis"
+      }
+    ],
+    [
+      {
+        "disease_id": "CILP_0119",
+        "omim_phenotype_number": "614844",
+        "phenotype_label": "Joubert Syndrome [OMIM phenotype 614844]",
+        "disease_family": "Joubert Syndrome"
+      },
+      {
+        "disease_id": "CILP_0200",
+        "omim_phenotype_number": "614844",
+        "phenotype_label": "Nephronophthisis [OMIM phenotype 614844]",
+        "disease_family": "Nephronophthisis"
+      }
+    ],
+    [
+      {
+        "disease_id": "CILP_0113",
+        "omim_phenotype_number": "614175",
+        "phenotype_label": "Joubert Syndrome [OMIM phenotype 614175]",
+        "disease_family": "Joubert Syndrome"
+      },
+      {
+        "disease_id": "CILP_0179",
+        "omim_phenotype_number": "614175",
+        "phenotype_label": "Meckel–Gruber Syndrome [OMIM phenotype 614175]",
+        "disease_family": "Meckel–Gruber Syndrome"
+      }
+    ]
+  ],
+  "records_after": 391,
+  "class_counts_after": {
+    "Retinitis Pigmentosa": 76,
+    "Primary Ciliary Dyskinesia": 45,
+    "Joubert Syndrome": 41,
+    "Spinocerebellar Ataxia": 37,
+    "Bardet–Biedl Syndrome": 22,
+    "Cone-Rod Dystrophy": 22,
+    "Short-rib Thoracic Dysplasia": 20,
+    "Leber Congenital Amaurosis": 19,
+    "Nephronophthisis": 17,
+    "Meckel–Gruber Syndrome": 14,
+    "Visceral Heterotaxy": 11,
+    "Usher Syndrome": 10,
+    "Holoprosencephaly": 9,
+    "Orofaciodigital Syndrome": 9,
+    "Senior-Løken Syndrome": 8,
+    "Autosomal Dominant Polycystic Kidney Disease": 7,
+    "Spondylometaphyseal Dysplasia": 7,
+    "Cornelia de Lange Syndrome": 6,
+    "Juvenile Myoclonic Epilepsy": 6,
+    "Cranioectodermal Dysplasia": 5
+  }
+}

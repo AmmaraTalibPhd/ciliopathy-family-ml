@@ -1,0 +1,1563 @@
+model,feature,label,mean_accuracy_decrease,sd
+Random Forest,HPO__HP:0000510,Rod-cone dystrophy (HP:0000510),0.03924050632911389,0.014750473484219718
+Random Forest,HPO__HP:0000090,Nephronophthisis (HP:0000090),0.027848101265822794,0.00779224064874799
+Random Forest,HPO__HP:0000774,Narrow chest (HP:0000774),0.024050632911392422,0.003896120324374024
+Random Forest,SYS__ear,Organ system: ear,0.01898734177215189,0.011973484847176178
+Random Forest,SYS__limbs,Organ system: limbs,0.01772151898734175,0.009543506771203204
+Random Forest,HPO__HP:0001751,Abnormal vestibular function (HP:0001751),0.015189873417721489,0.005194827099165365
+Random Forest,SYS__genitourinary,Organ system: genitourinary,0.014556962025316433,0.007432189222941786
+Random Forest,SYS__nervous_system,Organ system: nervous system,0.013291139240506317,0.00960955258881328
+Random Forest,HPO__HP:0000822,Hypertension (HP:0000822),0.012658227848101227,0.004106871421031967
+Random Forest,HPO__HP:0000563,Keratoconus (HP:0000563),0.012658227848101222,0.0
+Random Forest,HPO__HP:0002657,Spondylometaphyseal dysplasia (HP:0002657),0.012658227848101222,0.0
+Random Forest,HPO__HP:0000113,Polycystic kidney dysplasia (HP:0000113),0.01202531645569616,0.0028304657943035213
+Random Forest,HPO__HP:0000518,Cataract (HP:0000518),0.01202531645569616,0.0028304657943035213
+Random Forest,HPO__HP:0001156,Brachydactyly (HP:0001156),0.01202531645569616,0.0028304657943035213
+Random Forest,HPO__HP:0001382,Joint hypermobility (HP:0001382),0.01202531645569616,0.0028304657943035213
+Random Forest,HPO__HP:0000505,Visual impairment (HP:0000505),0.0113924050632911,0.0038961203243739894
+Random Forest,HPO__HP:0001773,Short foot (HP:0001773),0.0113924050632911,0.003896120324373989
+Random Forest,HPO__HP:0007663,Reduced visual acuity (HP:0007663),0.010126582278480994,0.008808257897955182
+Random Forest,SYS__skeletal,Organ system: skeletal,0.007594936708860733,0.0063623378474687705
+Random Forest,HPO__HP:0002110,Bronchiectasis (HP:0002110),0.006329113924050616,0.007683252894517507
+Random Forest,HPO__HP:0002419,Molar tooth sign on MRI (HP:0002419),0.005696202531645561,0.008687756217129866
+Random Forest,HPO__HP:0001513,Obesity (HP:0001513),0.005063291139240489,0.00636233784746877
+Random Forest,HPO__HP:0000639,Nystagmus (HP:0000639),0.004430379746835428,0.0061944365180960905
+Random Forest,SYS__head_neck,Organ system: head neck,0.0031645569620253056,0.005623565295181238
+Random Forest,SYS__eye,Organ system: eye,0.0018987341772151833,0.004637310740918
+Random Forest,HPO__HP:0000548,Cone/cone-rod dystrophy (HP:0000548),0.0012658227848101223,0.006993750018393425
+Random Forest,HPO__HP:0001260,Dysarthria (HP:0001260),0.0012658227848101223,0.0038961203243739885
+Random Forest,HPO__HP:0001270,Motor delay (HP:0001270),0.0012658227848101223,0.0038961203243739885
+Random Forest,HPO__HP:0002066,Gait ataxia (HP:0002066),0.0012658227848101223,0.0038961203243739885
+Random Forest,HPO__HP:0012265,Ciliary dyskinesia (HP:0012265),0.0012658227848101223,0.003896120324373989
+Random Forest,HPO__HP:0100864,Short femoral neck (HP:0100864),0.0012658227848101223,0.003896120324373989
+Random Forest,HPO__HP:0000348,High forehead (HP:0000348),0.0006329113924050611,0.0028304657943035213
+Random Forest,HPO__HP:0000365,Hearing impairment (HP:0000365),0.0006329113924050611,0.0028304657943035213
+Random Forest,HPO__HP:0000463,Anteverted nares (HP:0000463),0.0006329113924050611,0.0028304657943035213
+Random Forest,HPO__HP:0000470,Short neck (HP:0000470),0.0006329113924050611,0.0028304657943035213
+Random Forest,HPO__HP:0000613,Photophobia (HP:0000613),0.0006329113924050611,0.0028304657943035213
+Random Forest,HPO__HP:0000657,Oculomotor apraxia (HP:0000657),0.0006329113924050611,0.0028304657943035213
+Random Forest,HPO__HP:0000768,Pectus carinatum (HP:0000768),0.0006329113924050611,0.0028304657943035213
+Random Forest,HPO__HP:0001252,Hypotonia (HP:0001252),0.0006329113924050611,0.0028304657943035213
+Random Forest,HPO__HP:0001272,Cerebellar atrophy (HP:0001272),0.0006329113924050611,0.0028304657943035213
+Random Forest,HPO__HP:0002070,Limb ataxia (HP:0002070),0.0006329113924050611,0.0028304657943035213
+Random Forest,HPO__HP:0002085,Occipital encephalocele (HP:0002085),0.0006329113924050611,0.0028304657943035213
+Random Forest,HPO__HP:0002507,Semilobar holoprosencephaly (HP:0002507),0.0006329113924050611,0.0028304657943035213
+Random Forest,HPO__HP:0002650,Scoliosis (HP:0002650),0.0006329113924050611,0.0028304657943035213
+Random Forest,HPO__HP:0002812,Coxa vara (HP:0002812),0.0006329113924050611,0.0028304657943035213
+Random Forest,HPO__HP:0005280,Depressed nasal bridge (HP:0005280),0.0006329113924050611,0.0028304657943035213
+Random Forest,HPO__HP:0007401,Macular atrophy (HP:0007401),0.0006329113924050611,0.0028304657943035213
+Random Forest,HPO__HP:0007737,Spicular pigmentation of the retina (HP:0007737),0.0006329113924050611,0.0064609846270131475
+Random Forest,HPO__HP:0010230,Cone-shaped epiphyses of the phalanges of th… (HP:0010230),0.0006329113924050611,0.0028304657943035213
+Random Forest,HPO__HP:0000003,Multicystic kidney dysplasia (HP:0000003),0.0,0.0
+Random Forest,HPO__HP:0000012,Urinary urgency (HP:0000012),0.0,0.0
+Random Forest,HPO__HP:0000020,Urinary incontinence (HP:0000020),0.0,0.0
+Random Forest,HPO__HP:0000023,Inguinal hernia (HP:0000023),0.0,0.0
+Random Forest,HPO__HP:0000026,Male hypogonadism (HP:0000026),0.0,0.0
+Random Forest,HPO__HP:0000028,Cryptorchidism (HP:0000028),0.0,0.0
+Random Forest,HPO__HP:0000033,"Ambiguous genitalia, male (HP:0000033)",0.0,0.0
+Random Forest,HPO__HP:0000041,Chordee (HP:0000041),0.0,0.0
+Random Forest,HPO__HP:0000047,Hypospadias (HP:0000047),0.0,0.0
+Random Forest,HPO__HP:0000050,Hypoplastic male external genitalia (HP:0000050),0.0,0.0
+Random Forest,HPO__HP:0000054,Micropenis (HP:0000054),0.0,0.0
+Random Forest,HPO__HP:0000061,"Ambiguous genitalia, female (HP:0000061)",0.0,0.0
+Random Forest,HPO__HP:0000069,Abnormality of the ureter (HP:0000069),0.0,0.0
+Random Forest,HPO__HP:0000073,Ureteral duplication (HP:0000073),0.0,0.0
+Random Forest,HPO__HP:0000077,Abnormality of the kidney (HP:0000077),0.0,0.0
+Random Forest,HPO__HP:0000083,Renal insufficiency (HP:0000083),0.0,0.0
+Random Forest,HPO__HP:0000085,Horseshoe kidney (HP:0000085),0.0,0.0
+Random Forest,HPO__HP:0000089,Renal hypoplasia (HP:0000089),0.0,0.0
+Random Forest,HPO__HP:0000093,Proteinuria (HP:0000093),0.0,0.0
+Random Forest,HPO__HP:0000103,Polyuria (HP:0000103),0.0,0.0
+Random Forest,HPO__HP:0000104,Renal agenesis (HP:0000104),0.0,0.0
+Random Forest,HPO__HP:0000105,Enlarged kidney (HP:0000105),0.0,0.0
+Random Forest,HPO__HP:0000107,Renal cyst (HP:0000107),0.0,0.0
+Random Forest,HPO__HP:0000110,Renal dysplasia (HP:0000110),0.0,0.0
+Random Forest,HPO__HP:0000126,Hydronephrosis (HP:0000126),0.0,0.0
+Random Forest,HPO__HP:0000130,Abnormality of the uterus (HP:0000130),0.0,0.0
+Random Forest,HPO__HP:0000135,Hypogonadism (HP:0000135),0.0,0.0
+Random Forest,HPO__HP:0000154,Wide mouth (HP:0000154),0.0,0.0
+Random Forest,HPO__HP:0000158,Macroglossia (HP:0000158),0.0,0.0
+Random Forest,HPO__HP:0000161,Median cleft upper lip (HP:0000161),0.0,0.0
+Random Forest,HPO__HP:0000175,Cleft palate (HP:0000175),0.0,0.0
+Random Forest,HPO__HP:0000176,Submucous cleft hard palate (HP:0000176),0.0,0.0
+Random Forest,HPO__HP:0000180,Lobulated tongue (HP:0000180),0.0,0.0
+Random Forest,HPO__HP:0000191,Accessory oral frenulum (HP:0000191),0.0,0.0
+Random Forest,HPO__HP:0000193,Bifid uvula (HP:0000193),0.0,0.0
+Random Forest,HPO__HP:0000199,Tongue nodules (HP:0000199),0.0,0.0
+Random Forest,HPO__HP:0000204,Cleft upper lip (HP:0000204),0.0,0.0
+Random Forest,HPO__HP:0000218,High palate (HP:0000218),0.0,0.0
+Random Forest,HPO__HP:0000219,Thin upper lip vermilion (HP:0000219),0.0,0.0
+Random Forest,HPO__HP:0000233,Thin vermilion border (HP:0000233),0.0,0.0
+Random Forest,HPO__HP:0000238,Hydrocephalus (HP:0000238),0.0,0.0
+Random Forest,HPO__HP:0000243,Trigonocephaly (HP:0000243),0.0,0.0
+Random Forest,HPO__HP:0000246,Sinusitis (HP:0000246),0.0,0.0
+Random Forest,HPO__HP:0000248,Brachycephaly (HP:0000248),0.0,0.0
+Random Forest,HPO__HP:0000256,Macrocephaly (HP:0000256),0.0,0.0
+Random Forest,HPO__HP:0000260,Wide anterior fontanel (HP:0000260),0.0,0.0
+Random Forest,HPO__HP:0000262,Turricephaly (HP:0000262),0.0,0.0
+Random Forest,HPO__HP:0000268,Dolichocephaly (HP:0000268),0.0,0.0
+Random Forest,HPO__HP:0000272,Malar flattening (HP:0000272),0.0,0.0
+Random Forest,HPO__HP:0000278,Retrognathia (HP:0000278),0.0,0.0
+Random Forest,HPO__HP:0000286,Epicanthus (HP:0000286),0.0,0.0
+Random Forest,HPO__HP:0000293,Full cheeks (HP:0000293),0.0,0.0
+Random Forest,HPO__HP:0000311,Round face (HP:0000311),0.0,0.0
+Random Forest,HPO__HP:0000316,Hypertelorism (HP:0000316),0.0,0.0
+Random Forest,HPO__HP:0000317,Facial myokymia (HP:0000317),0.0,0.0
+Random Forest,HPO__HP:0000319,Smooth philtrum (HP:0000319),0.0,0.0
+Random Forest,HPO__HP:0000337,Broad forehead (HP:0000337),0.0,0.0
+Random Forest,HPO__HP:0000340,Sloping forehead (HP:0000340),0.0,0.0
+Random Forest,HPO__HP:0000341,Narrow forehead (HP:0000341),0.0,0.0
+Random Forest,HPO__HP:0000343,Long philtrum (HP:0000343),0.0,0.0
+Random Forest,HPO__HP:0000347,Micrognathia (HP:0000347),0.0,0.0
+Random Forest,HPO__HP:0000358,Posteriorly rotated ears (HP:0000358),0.0,0.0
+Random Forest,HPO__HP:0000360,Tinnitus (HP:0000360),0.0,0.0
+Random Forest,HPO__HP:0000369,Low-set ears (HP:0000369),0.0,0.0
+Random Forest,HPO__HP:0000377,Abnormal pinna morphology (HP:0000377),0.0,0.0
+Random Forest,HPO__HP:0000389,Chronic otitis media (HP:0000389),0.0,0.0
+Random Forest,HPO__HP:0000403,Recurrent otitis media (HP:0000403),0.0,0.0
+Random Forest,HPO__HP:0000405,Conductive hearing impairment (HP:0000405),0.0,0.0
+Random Forest,HPO__HP:0000407,Sensorineural hearing impairment (HP:0000407),0.0,0.0
+Random Forest,HPO__HP:0000411,Protruding ear (HP:0000411),0.0,0.0
+Random Forest,HPO__HP:0000414,Bulbous nose (HP:0000414),0.0,0.0
+Random Forest,HPO__HP:0000431,Wide nasal bridge (HP:0000431),0.0,0.0
+Random Forest,HPO__HP:0000448,Prominent nose (HP:0000448),0.0,0.0
+Random Forest,HPO__HP:0000455,Broad nasal tip (HP:0000455),0.0,0.0
+Random Forest,HPO__HP:0000465,Webbed neck (HP:0000465),0.0,0.0
+Random Forest,HPO__HP:0000467,Neck muscle weakness (HP:0000467),0.0,0.0
+Random Forest,HPO__HP:0000473,Torticollis (HP:0000473),0.0,0.0
+Random Forest,HPO__HP:0000474,Thickened nuchal skin fold (HP:0000474),0.0,0.0
+Random Forest,HPO__HP:0000476,Cystic hygroma (HP:0000476),0.0,0.0
+Random Forest,HPO__HP:0000479,Abnormal retinal morphology (HP:0000479),0.0,0.0
+Random Forest,HPO__HP:0000483,Astigmatism (HP:0000483),0.0,0.0
+Random Forest,HPO__HP:0000486,Strabismus (HP:0000486),0.0,0.0
+Random Forest,HPO__HP:0000488,Retinopathy (HP:0000488),0.0,0.0
+Random Forest,HPO__HP:0000490,Deeply set eye (HP:0000490),0.0,0.0
+Random Forest,HPO__HP:0000494,Downslanted palpebral fissures (HP:0000494),0.0,0.0
+Random Forest,HPO__HP:0000496,Abnormality of eye movement (HP:0000496),0.0,0.0
+Random Forest,HPO__HP:0000506,Telecanthus (HP:0000506),0.0,0.0
+Random Forest,HPO__HP:0000508,Ptosis (HP:0000508),0.0,0.0
+Random Forest,HPO__HP:0000511,Vertical supranuclear gaze palsy (HP:0000511),0.0,0.0
+Random Forest,HPO__HP:0000512,Abnormal electroretinogram (HP:0000512),0.0,0.0
+Random Forest,HPO__HP:0000514,Slow saccadic eye movements (HP:0000514),0.0,0.0
+Random Forest,HPO__HP:0000520,Proptosis (HP:0000520),0.0,0.0
+Random Forest,HPO__HP:0000524,Conjunctival telangiectasia (HP:0000524),0.0,0.0
+Random Forest,HPO__HP:0000526,Aniridia (HP:0000526),0.0,0.0
+Random Forest,HPO__HP:0000529,Progressive visual loss (HP:0000529),0.0,0.0
+Random Forest,HPO__HP:0000537,Epicanthus inversus (HP:0000537),0.0,0.0
+Random Forest,HPO__HP:0000540,Hypermetropia (HP:0000540),0.0,0.0
+Random Forest,HPO__HP:0000543,Optic disc pallor (HP:0000543),0.0,0.0
+Random Forest,HPO__HP:0000545,Myopia (HP:0000545),0.0,0.0
+Random Forest,HPO__HP:0000546,Retinal degeneration (HP:0000546),0.0,0.0
+Random Forest,HPO__HP:0000550,Undetectable electroretinogram (HP:0000550),0.0,0.0
+Random Forest,HPO__HP:0000555,Leukocoria (HP:0000555),0.0,0.0
+Random Forest,HPO__HP:0000556,Retinal dystrophy (HP:0000556),0.0,0.0
+Random Forest,HPO__HP:0000565,Esotropia (HP:0000565),0.0,0.0
+Random Forest,HPO__HP:0000567,Chorioretinal coloboma (HP:0000567),0.0,0.0
+Random Forest,HPO__HP:0000568,Microphthalmia (HP:0000568),0.0,0.0
+Random Forest,HPO__HP:0000570,Abnormal saccadic eye movements (HP:0000570),0.0,0.0
+Random Forest,HPO__HP:0000571,Hypometric saccades (HP:0000571),0.0,0.0
+Random Forest,HPO__HP:0000572,Visual loss (HP:0000572),0.0,0.0
+Random Forest,HPO__HP:0000574,Thick eyebrow (HP:0000574),0.0,0.0
+Random Forest,HPO__HP:0000575,Scotoma (HP:0000575),0.0,0.0
+Random Forest,HPO__HP:0000580,Pigmentary retinopathy (HP:0000580),0.0,0.0
+Random Forest,HPO__HP:0000582,Upslanted palpebral fissure (HP:0000582),0.0,0.0
+Random Forest,HPO__HP:0000588,Optic disc coloboma (HP:0000588),0.0,0.0
+Random Forest,HPO__HP:0000589,Coloboma (HP:0000589),0.0,0.0
+Random Forest,HPO__HP:0000597,Ophthalmoparesis (HP:0000597),0.0,0.0
+Random Forest,HPO__HP:0000602,Ophthalmoplegia (HP:0000602),0.0,0.0
+Random Forest,HPO__HP:0000603,Central scotoma (HP:0000603),0.0,0.004106871421031949
+Random Forest,HPO__HP:0000605,Supranuclear gaze palsy (HP:0000605),0.0,0.0
+Random Forest,HPO__HP:0000609,Optic nerve hypoplasia (HP:0000609),0.0,0.0
+Random Forest,HPO__HP:0000612,Iris coloboma (HP:0000612),0.0,0.0
+Random Forest,HPO__HP:0000616,Miosis (HP:0000616),0.0,0.0
+Random Forest,HPO__HP:0000617,Abnormality of ocular smooth pursuit (HP:0000617),0.0,0.0
+Random Forest,HPO__HP:0000618,Blindness (HP:0000618),0.0,0.0
+Random Forest,HPO__HP:0000623,Supranuclear ophthalmoplegia (HP:0000623),0.0,0.0
+Random Forest,HPO__HP:0000640,Gaze-evoked nystagmus (HP:0000640),0.0,0.0
+Random Forest,HPO__HP:0000641,Dysmetric saccades (HP:0000641),0.0,0.0
+Random Forest,HPO__HP:0000648,Optic atrophy (HP:0000648),0.0,0.0
+Random Forest,HPO__HP:0000651,Diplopia (HP:0000651),0.0,0.0
+Random Forest,HPO__HP:0000664,Synophrys (HP:0000664),0.0,0.0
+Random Forest,HPO__HP:0000666,Horizontal nystagmus (HP:0000666),0.0,0.0
+Random Forest,HPO__HP:0000670,Carious teeth (HP:0000670),0.0,0.0
+Random Forest,HPO__HP:0000678,Dental crowding (HP:0000678),0.0,0.0
+Random Forest,HPO__HP:0000679,Taurodontia (HP:0000679),0.0,0.0
+Random Forest,HPO__HP:0000687,Widely spaced teeth (HP:0000687),0.0,0.0
+Random Forest,HPO__HP:0000691,Microdontia (HP:0000691),0.0,0.0
+Random Forest,HPO__HP:0000695,Natal tooth (HP:0000695),0.0,0.0
+Random Forest,HPO__HP:0000716,Depression (HP:0000716),0.0,0.0
+Random Forest,HPO__HP:0000718,Aggressive behavior (HP:0000718),0.0,0.0
+Random Forest,HPO__HP:0000726,Dementia (HP:0000726),0.0,0.0
+Random Forest,HPO__HP:0000727,Frontal lobe dementia (HP:0000727),0.0,0.0
+Random Forest,HPO__HP:0000729,Autistic behavior (HP:0000729),0.0,0.0
+Random Forest,HPO__HP:0000737,Irritability (HP:0000737),0.0,0.0
+Random Forest,HPO__HP:0000738,Hallucinations (HP:0000738),0.0,0.0
+Random Forest,HPO__HP:0000739,Anxiety (HP:0000739),0.0,0.0
+Random Forest,HPO__HP:0000741,Apathy (HP:0000741),0.0,0.0
+Random Forest,HPO__HP:0000743,Frontal release signs (HP:0000743),0.0,0.0
+Random Forest,HPO__HP:0000746,Delusion (HP:0000746),0.0,0.0
+Random Forest,HPO__HP:0000750,Delayed speech and language development (HP:0000750),0.0,0.0
+Random Forest,HPO__HP:0000752,Hyperactivity (HP:0000752),0.0,0.0
+Random Forest,HPO__HP:0000757,Lack of insight (HP:0000757),0.0,0.0
+Random Forest,HPO__HP:0000762,Decreased nerve conduction velocity (HP:0000762),0.0,0.0
+Random Forest,HPO__HP:0000763,Sensory neuropathy (HP:0000763),0.0,0.0
+Random Forest,HPO__HP:0000767,Pectus excavatum (HP:0000767),0.0,0.0
+Random Forest,HPO__HP:0000773,Short ribs (HP:0000773),0.0,0.0
+Random Forest,HPO__HP:0000789,Infertility (HP:0000789),0.0,0.0
+Random Forest,HPO__HP:0000800,Cystic renal dysplasia (HP:0000800),0.0,0.0
+Random Forest,HPO__HP:0000805,Enuresis (HP:0000805),0.0,0.0
+Random Forest,HPO__HP:0000819,Diabetes mellitus (HP:0000819),0.0,0.0
+Random Forest,HPO__HP:0000821,Hypothyroidism (HP:0000821),0.0,0.0
+Random Forest,HPO__HP:0000835,Adrenal hypoplasia (HP:0000835),0.0,0.0
+Random Forest,HPO__HP:0000863,Central diabetes insipidus (HP:0000863),0.0,0.0
+Random Forest,HPO__HP:0000878,11 pairs of ribs (HP:0000878),0.0,0.0
+Random Forest,HPO__HP:0000888,Horizontal ribs (HP:0000888),0.0,0.0
+Random Forest,HPO__HP:0000895,Lateral clavicle hook (HP:0000895),0.0,0.0
+Random Forest,HPO__HP:0000926,Platyspondyly (HP:0000926),0.0,0.0
+Random Forest,HPO__HP:0000938,Osteopenia (HP:0000938),0.0,0.0
+Random Forest,HPO__HP:0000954,Single transverse palmar crease (HP:0000954),0.0,0.0
+Random Forest,HPO__HP:0000960,Sacral dimple (HP:0000960),0.0,0.0
+Random Forest,HPO__HP:0000961,Cyanosis (HP:0000961),0.0,0.0
+Random Forest,HPO__HP:0000962,Hyperkeratosis (HP:0000962),0.0,0.0
+Random Forest,HPO__HP:0000963,Thin skin (HP:0000963),0.0,0.0
+Random Forest,HPO__HP:0000965,Cutis marmorata (HP:0000965),0.0,0.0
+Random Forest,HPO__HP:0000969,Edema (HP:0000969),0.0,0.0
+Random Forest,HPO__HP:0000973,Cutis laxa (HP:0000973),0.0,0.0
+Random Forest,HPO__HP:0000980,Pallor (HP:0000980),0.0,0.0
+Random Forest,HPO__HP:0001019,Erythroderma (HP:0001019),0.0,0.0
+Random Forest,HPO__HP:0001085,Papilledema (HP:0001085),0.0,0.0
+Random Forest,HPO__HP:0001105,Retinal atrophy (HP:0001105),0.0,0.0
+Random Forest,HPO__HP:0001116,Macular pseudocoloboma (HP:0001116),0.0,0.0
+Random Forest,HPO__HP:0001123,Visual field defect (HP:0001123),0.0,0.0
+Random Forest,HPO__HP:0001141,Severely reduced visual acuity (HP:0001141),0.0,0.0
+Random Forest,HPO__HP:0001151,Impaired horizontal smooth pursuit (HP:0001151),0.0,0.0
+Random Forest,HPO__HP:0001152,Saccadic smooth pursuit interruptions (HP:0001152),0.0,0.0
+Random Forest,HPO__HP:0001153,Septate vagina (HP:0001153),0.0,0.0
+Random Forest,HPO__HP:0001159,Syndactyly (HP:0001159),0.0,0.0
+Random Forest,HPO__HP:0001162,Postaxial hand polydactyly (HP:0001162),0.0,0.0
+Random Forest,HPO__HP:0001169,Broad palm (HP:0001169),0.0,0.0
+Random Forest,HPO__HP:0001177,Preaxial hand polydactyly (HP:0001177),0.0,0.0
+Random Forest,HPO__HP:0001195,Single umbilical artery (HP:0001195),0.0,0.0
+Random Forest,HPO__HP:0001230,Broad metacarpals (HP:0001230),0.0,0.0
+Random Forest,HPO__HP:0001249,Intellectual disability (HP:0001249),0.0,0.0
+Random Forest,HPO__HP:0001250,Seizure (HP:0001250),0.0,0.0
+Random Forest,HPO__HP:0001251,Ataxia (HP:0001251),0.0,0.0
+Random Forest,HPO__HP:0001256,Mild intellectual disability (HP:0001256),0.0,0.0
+Random Forest,HPO__HP:0001257,Spasticity (HP:0001257),0.0,0.0
+Random Forest,HPO__HP:0001263,Global developmental delay (HP:0001263),0.0,0.0
+Random Forest,HPO__HP:0001265,Hyporeflexia (HP:0001265),0.0,0.0
+Random Forest,HPO__HP:0001268,Mental deterioration (HP:0001268),0.0,0.0
+Random Forest,HPO__HP:0001271,Polyneuropathy (HP:0001271),0.0,0.0
+Random Forest,HPO__HP:0001273,Abnormal corpus callosum morphology (HP:0001273),0.0,0.0
+Random Forest,HPO__HP:0001274,Agenesis of corpus callosum (HP:0001274),0.0,0.0
+Random Forest,HPO__HP:0001276,Hypertonia (HP:0001276),0.0,0.0
+Random Forest,HPO__HP:0001283,Bulbar palsy (HP:0001283),0.0,0.0
+Random Forest,HPO__HP:0001284,Areflexia (HP:0001284),0.0,0.0
+Random Forest,HPO__HP:0001288,Gait disturbance (HP:0001288),0.0,0.0
+Random Forest,HPO__HP:0001289,Confusion (HP:0001289),0.0,0.0
+Random Forest,HPO__HP:0001290,Generalized hypotonia (HP:0001290),0.0,0.0
+Random Forest,HPO__HP:0001300,Parkinsonism (HP:0001300),0.0,0.0
+Random Forest,HPO__HP:0001305,Dandy-Walker malformation (HP:0001305),0.0,0.0
+Random Forest,HPO__HP:0001308,Tongue fasciculations (HP:0001308),0.0,0.0
+Random Forest,HPO__HP:0001310,Dysmetria (HP:0001310),0.0,0.0
+Random Forest,HPO__HP:0001315,Diminished deep tendon reflex (HP:0001315),0.0,0.0
+Random Forest,HPO__HP:0001319,Neonatal hypotonia (HP:0001319),0.0,0.0
+Random Forest,HPO__HP:0001320,Cerebellar vermis hypoplasia (HP:0001320),0.0,0.0
+Random Forest,HPO__HP:0001321,Cerebellar hypoplasia (HP:0001321),0.0,0.0
+Random Forest,HPO__HP:0001324,Muscle weakness (HP:0001324),0.0,0.0
+Random Forest,HPO__HP:0001332,Dystonia (HP:0001332),0.0,0.0
+Random Forest,HPO__HP:0001336,Myoclonus (HP:0001336),0.0,0.0
+Random Forest,HPO__HP:0001337,Tremor (HP:0001337),0.0,0.0
+Random Forest,HPO__HP:0001341,Olfactory lobe agenesis (HP:0001341),0.0,0.0
+Random Forest,HPO__HP:0001344,Absent speech (HP:0001344),0.0,0.0
+Random Forest,HPO__HP:0001347,Hyperreflexia (HP:0001347),0.0,0.0
+Random Forest,HPO__HP:0001348,Brisk reflexes (HP:0001348),0.0,0.0
+Random Forest,HPO__HP:0001350,Slurred speech (HP:0001350),0.0,0.0
+Random Forest,HPO__HP:0001360,Holoprosencephaly (HP:0001360),0.0,0.0
+Random Forest,HPO__HP:0001363,Craniosynostosis (HP:0001363),0.0,0.0
+Random Forest,HPO__HP:0001374,Congenital hip dislocation (HP:0001374),0.0,0.0
+Random Forest,HPO__HP:0001385,Hip dysplasia (HP:0001385),0.0,0.0
+Random Forest,HPO__HP:0001395,Hepatic fibrosis (HP:0001395),0.0,0.0
+Random Forest,HPO__HP:0001396,Cholestasis (HP:0001396),0.0,0.0
+Random Forest,HPO__HP:0001407,Hepatic cysts (HP:0001407),0.0,0.0
+Random Forest,HPO__HP:0001408,Bile duct proliferation (HP:0001408),0.0,0.0
+Random Forest,HPO__HP:0001433,Hepatosplenomegaly (HP:0001433),0.0,0.0
+Random Forest,HPO__HP:0001483,Eye poking (HP:0001483),0.0,0.0
+Random Forest,HPO__HP:0001508,Failure to thrive (HP:0001508),0.0,0.0
+Random Forest,HPO__HP:0001510,Growth delay (HP:0001510),0.0,0.0
+Random Forest,HPO__HP:0001511,Intrauterine growth retardation (HP:0001511),0.0,0.0
+Random Forest,HPO__HP:0001518,Small for gestational age (HP:0001518),0.0,0.0
+Random Forest,HPO__HP:0001520,Large for gestational age (HP:0001520),0.0,0.0
+Random Forest,HPO__HP:0001537,Umbilical hernia (HP:0001537),0.0,0.0
+Random Forest,HPO__HP:0001538,Protuberant abdomen (HP:0001538),0.0,0.0
+Random Forest,HPO__HP:0001539,Omphalocele (HP:0001539),0.0,0.0
+Random Forest,HPO__HP:0001561,Polyhydramnios (HP:0001561),0.0,0.0
+Random Forest,HPO__HP:0001562,Oligohydramnios (HP:0001562),0.0,0.0
+Random Forest,HPO__HP:0001583,Rotary nystagmus (HP:0001583),0.0,0.0
+Random Forest,HPO__HP:0001600,Abnormality of the larynx (HP:0001600),0.0,0.0
+Random Forest,HPO__HP:0001623,Breech presentation (HP:0001623),0.0,0.0
+Random Forest,HPO__HP:0001627,Abnormal heart morphology (HP:0001627),0.0,0.0
+Random Forest,HPO__HP:0001629,Ventricular septal defect (HP:0001629),0.0,0.0
+Random Forest,HPO__HP:0001631,Atrial septal defect (HP:0001631),0.0,0.0
+Random Forest,HPO__HP:0001636,Tetralogy of Fallot (HP:0001636),0.0,0.0
+Random Forest,HPO__HP:0001639,Hypertrophic cardiomyopathy (HP:0001639),0.0,0.0
+Random Forest,HPO__HP:0001640,Cardiomegaly (HP:0001640),0.0,0.0
+Random Forest,HPO__HP:0001642,Pulmonic stenosis (HP:0001642),0.0,0.0
+Random Forest,HPO__HP:0001643,Patent ductus arteriosus (HP:0001643),0.0,0.0
+Random Forest,HPO__HP:0001644,Dilated cardiomyopathy (HP:0001644),0.0,0.0
+Random Forest,HPO__HP:0001646,Abnormal aortic valve morphology (HP:0001646),0.0,0.0
+Random Forest,HPO__HP:0001647,Bicuspid aortic valve (HP:0001647),0.0,0.0
+Random Forest,HPO__HP:0001650,Aortic valve stenosis (HP:0001650),0.0,0.0
+Random Forest,HPO__HP:0001651,Dextrocardia (HP:0001651),0.0,0.0
+Random Forest,HPO__HP:0001655,Patent foramen ovale (HP:0001655),0.0,0.0
+Random Forest,HPO__HP:0001669,Transposition of the great arteries (HP:0001669),0.0,0.0
+Random Forest,HPO__HP:0001671,Abnormal cardiac septum morphology (HP:0001671),0.0,0.0
+Random Forest,HPO__HP:0001674,Complete atrioventricular canal defect (HP:0001674),0.0,0.0
+Random Forest,HPO__HP:0001680,Coarctation of aorta (HP:0001680),0.0,0.0
+Random Forest,HPO__HP:0001682,Subvalvular aortic stenosis (HP:0001682),0.0,0.0
+Random Forest,HPO__HP:0001696,Situs inversus totalis (HP:0001696),0.0,0.0
+Random Forest,HPO__HP:0001702,Abnormal tricuspid valve morphology (HP:0001702),0.0,0.0
+Random Forest,HPO__HP:0001718,Mitral stenosis (HP:0001718),0.0,0.0
+Random Forest,HPO__HP:0001719,Double outlet right ventricle (HP:0001719),0.0,0.0
+Random Forest,HPO__HP:0001733,Pancreatitis (HP:0001733),0.0,0.0
+Random Forest,HPO__HP:0001737,Pancreatic cysts (HP:0001737),0.0,0.0
+Random Forest,HPO__HP:0001744,Splenomegaly (HP:0001744),0.0,0.0
+Random Forest,HPO__HP:0001746,Asplenia (HP:0001746),0.0,0.0
+Random Forest,HPO__HP:0001747,Accessory spleen (HP:0001747),0.0,0.0
+Random Forest,HPO__HP:0001748,Polysplenia (HP:0001748),0.0,0.0
+Random Forest,HPO__HP:0001750,Single ventricle (HP:0001750),0.0,0.0
+Random Forest,HPO__HP:0001760,Abnormal foot morphology (HP:0001760),0.0,0.0
+Random Forest,HPO__HP:0001761,Pes cavus (HP:0001761),0.0,0.0
+Random Forest,HPO__HP:0001765,Hammertoe (HP:0001765),0.0,0.0
+Random Forest,HPO__HP:0001770,Toe syndactyly (HP:0001770),0.0,0.0
+Random Forest,HPO__HP:0001776,Bilateral talipes equinovarus (HP:0001776),0.0,0.0
+Random Forest,HPO__HP:0001800,Hypoplastic toenails (HP:0001800),0.0,0.0
+Random Forest,HPO__HP:0001829,Foot polydactyly (HP:0001829),0.0,0.0
+Random Forest,HPO__HP:0001830,Postaxial foot polydactyly (HP:0001830),0.0,0.0
+Random Forest,HPO__HP:0001831,Short toe (HP:0001831),0.0,0.0
+Random Forest,HPO__HP:0001841,Preaxial foot polydactyly (HP:0001841),0.0,0.0
+Random Forest,HPO__HP:0001852,Sandal gap (HP:0001852),0.0,0.0
+Random Forest,HPO__HP:0001883,Talipes (HP:0001883),0.0,0.0
+Random Forest,HPO__HP:0001903,Anemia (HP:0001903),0.0,0.0
+Random Forest,HPO__HP:0001919,Acute kidney injury (HP:0001919),0.0,0.0
+Random Forest,HPO__HP:0001959,Polydipsia (HP:0001959),0.0,0.0
+Random Forest,HPO__HP:0001999,Abnormal facial shape (HP:0001999),0.0,0.0
+Random Forest,HPO__HP:0002002,Deep philtrum (HP:0002002),0.0,0.0
+Random Forest,HPO__HP:0002007,Frontal bossing (HP:0002007),0.0,0.0
+Random Forest,HPO__HP:0002015,Dysphagia (HP:0002015),0.0,0.0
+Random Forest,HPO__HP:0002017,Nausea and vomiting (HP:0002017),0.0,0.0
+Random Forest,HPO__HP:0002020,Gastroesophageal reflux (HP:0002020),0.0,0.0
+Random Forest,HPO__HP:0002023,Anal atresia (HP:0002023),0.0,0.0
+Random Forest,HPO__HP:0002059,Cerebral atrophy (HP:0002059),0.0,0.0
+Random Forest,HPO__HP:0002062,Abnormal pyramidal tract morphology (HP:0002062),0.0,0.0
+Random Forest,HPO__HP:0002063,Rigidity (HP:0002063),0.0,0.0
+Random Forest,HPO__HP:0002064,Spastic gait (HP:0002064),0.0,0.0
+Random Forest,HPO__HP:0002067,Bradykinesia (HP:0002067),0.0,0.0
+Random Forest,HPO__HP:0002069,Bilateral tonic-clonic seizure (HP:0002069),0.0,0.0
+Random Forest,HPO__HP:0002071,Abnormality of extrapyramidal motor function (HP:0002071),0.0,0.0
+Random Forest,HPO__HP:0002072,Chorea (HP:0002072),0.0,0.0
+Random Forest,HPO__HP:0002073,Progressive cerebellar ataxia (HP:0002073),0.0,0.0
+Random Forest,HPO__HP:0002075,Dysdiadochokinesis (HP:0002075),0.0,0.0
+Random Forest,HPO__HP:0002078,Truncal ataxia (HP:0002078),0.0,0.0
+Random Forest,HPO__HP:0002079,Hypoplasia of the corpus callosum (HP:0002079),0.0,0.0
+Random Forest,HPO__HP:0002080,Intention tremor (HP:0002080),0.0,0.0
+Random Forest,HPO__HP:0002083,Migraine without aura (HP:0002083),0.0,0.0
+Random Forest,HPO__HP:0002084,Encephalocele (HP:0002084),0.0,0.0
+Random Forest,HPO__HP:0002089,Pulmonary hypoplasia (HP:0002089),0.0,0.0
+Random Forest,HPO__HP:0002090,Pneumonia (HP:0002090),0.0,0.0
+Random Forest,HPO__HP:0002091,Restrictive ventilatory defect (HP:0002091),0.0,0.0
+Random Forest,HPO__HP:0002098,Respiratory distress (HP:0002098),0.0,0.0
+Random Forest,HPO__HP:0002099,Asthma (HP:0002099),0.0,0.0
+Random Forest,HPO__HP:0002104,Apnea (HP:0002104),0.0,0.0
+Random Forest,HPO__HP:0002119,Ventriculomegaly (HP:0002119),0.0,0.0
+Random Forest,HPO__HP:0002120,Cerebral cortical atrophy (HP:0002120),0.0,0.0
+Random Forest,HPO__HP:0002121,Generalized non-motor (absence) seizure (HP:0002121),0.0,0.0
+Random Forest,HPO__HP:0002126,Polymicrogyria (HP:0002126),0.0,0.0
+Random Forest,HPO__HP:0002132,Porencephalic cyst (HP:0002132),0.0,0.0
+Random Forest,HPO__HP:0002133,Status epilepticus (HP:0002133),0.0,0.0
+Random Forest,HPO__HP:0002136,Broad-based gait (HP:0002136),0.0,0.0
+Random Forest,HPO__HP:0002139,Arrhinencephaly (HP:0002139),0.0,0.0
+Random Forest,HPO__HP:0002141,Gait imbalance (HP:0002141),0.0,0.0
+Random Forest,HPO__HP:0002162,Low posterior hairline (HP:0002162),0.0,0.0
+Random Forest,HPO__HP:0002166,Impaired vibration sensation in the lower li… (HP:0002166),0.0,0.0
+Random Forest,HPO__HP:0002168,Scanning speech (HP:0002168),0.0,0.0
+Random Forest,HPO__HP:0002169,Clonus (HP:0002169),0.0,0.0
+Random Forest,HPO__HP:0002171,Gliosis (HP:0002171),0.0,0.0
+Random Forest,HPO__HP:0002172,Postural instability (HP:0002172),0.0,0.0
+Random Forest,HPO__HP:0002174,Postural tremor (HP:0002174),0.0,0.0
+Random Forest,HPO__HP:0002179,Opisthotonus (HP:0002179),0.0,0.0
+Random Forest,HPO__HP:0002186,Apraxia (HP:0002186),0.0,0.0
+Random Forest,HPO__HP:0002188,Delayed CNS myelination (HP:0002188),0.0,0.0
+Random Forest,HPO__HP:0002194,Delayed gross motor development (HP:0002194),0.0,0.0
+Random Forest,HPO__HP:0002195,Dysgenesis of the cerebellar vermis (HP:0002195),0.0,0.0
+Random Forest,HPO__HP:0002198,Dilated fourth ventricle (HP:0002198),0.0,0.0
+Random Forest,HPO__HP:0002205,Recurrent respiratory infections (HP:0002205),0.0,0.0
+Random Forest,HPO__HP:0002209,Sparse scalp hair (HP:0002209),0.0,0.0
+Random Forest,HPO__HP:0002236,Frontal upsweep of hair (HP:0002236),0.0,0.0
+Random Forest,HPO__HP:0002240,Hepatomegaly (HP:0002240),0.0,0.0
+Random Forest,HPO__HP:0002247,Duodenal atresia (HP:0002247),0.0,0.0
+Random Forest,HPO__HP:0002257,Chronic rhinitis (HP:0002257),0.0,0.0
+Random Forest,HPO__HP:0002280,Enlarged cisterna magna (HP:0002280),0.0,0.0
+Random Forest,HPO__HP:0002282,Gray matter heterotopia (HP:0002282),0.0,0.0
+Random Forest,HPO__HP:0002286,Fair hair (HP:0002286),0.0,0.0
+Random Forest,HPO__HP:0002300,Mutism (HP:0002300),0.0,0.0
+Random Forest,HPO__HP:0002304,Akinesia (HP:0002304),0.0,0.0
+Random Forest,HPO__HP:0002307,Drooling (HP:0002307),0.0,0.0
+Random Forest,HPO__HP:0002308,Chiari malformation (HP:0002308),0.0,0.0
+Random Forest,HPO__HP:0002310,Orofacial dyskinesia (HP:0002310),0.0,0.0
+Random Forest,HPO__HP:0002311,Incoordination (HP:0002311),0.0,0.0
+Random Forest,HPO__HP:0002313,Spastic paraparesis (HP:0002313),0.0,0.0
+Random Forest,HPO__HP:0002317,Unsteady gait (HP:0002317),0.0,0.0
+Random Forest,HPO__HP:0002321,Vertigo (HP:0002321),0.0,0.0
+Random Forest,HPO__HP:0002323,Anencephaly (HP:0002323),0.0,0.0
+Random Forest,HPO__HP:0002335,Agenesis of cerebellar vermis (HP:0002335),0.0,0.0
+Random Forest,HPO__HP:0002342,Moderate intellectual disability (HP:0002342),0.0,0.0
+Random Forest,HPO__HP:0002345,Action tremor (HP:0002345),0.0,0.0
+Random Forest,HPO__HP:0002346,Head tremor (HP:0002346),0.0,0.0
+Random Forest,HPO__HP:0002352,Leukoencephalopathy (HP:0002352),0.0,0.0
+Random Forest,HPO__HP:0002354,Memory impairment (HP:0002354),0.0,0.0
+Random Forest,HPO__HP:0002359,Frequent falls (HP:0002359),0.0,0.0
+Random Forest,HPO__HP:0002365,Hypoplasia of the brainstem (HP:0002365),0.0,0.0
+Random Forest,HPO__HP:0002376,Developmental regression (HP:0002376),0.0,0.0
+Random Forest,HPO__HP:0002380,Fasciculations (HP:0002380),0.0,0.0
+Random Forest,HPO__HP:0002384,Focal impaired awareness seizure (HP:0002384),0.0,0.0
+Random Forest,HPO__HP:0002395,Lower limb hyperreflexia (HP:0002395),0.0,0.0
+Random Forest,HPO__HP:0002396,Cogwheel rigidity (HP:0002396),0.0,0.0
+Random Forest,HPO__HP:0002403,Positive Romberg sign (HP:0002403),0.0,0.0
+Random Forest,HPO__HP:0002404,Thickened superior cerebellar peduncle (HP:0002404),0.0,0.0
+Random Forest,HPO__HP:0002406,Limb dysmetria (HP:0002406),0.0,0.0
+Random Forest,HPO__HP:0002410,Aqueductal stenosis (HP:0002410),0.0,0.0
+Random Forest,HPO__HP:0002411,Myokymia (HP:0002411),0.0,0.0
+Random Forest,HPO__HP:0002421,Poor head control (HP:0002421),0.0,0.0
+Random Forest,HPO__HP:0002423,Long-tract sign (HP:0002423),0.0,0.0
+Random Forest,HPO__HP:0002435,Meningocele (HP:0002435),0.0,0.0
+Random Forest,HPO__HP:0002436,Occipital meningocele (HP:0002436),0.0,0.0
+Random Forest,HPO__HP:0002442,Dyscalculia (HP:0002442),0.0,0.0
+Random Forest,HPO__HP:0002444,Hypothalamic hamartoma (HP:0002444),0.0,0.0
+Random Forest,HPO__HP:0002460,Distal muscle weakness (HP:0002460),0.0,0.0
+Random Forest,HPO__HP:0002465,Poor speech (HP:0002465),0.0,0.0
+Random Forest,HPO__HP:0002470,Nonprogressive cerebellar ataxia (HP:0002470),0.0,0.0
+Random Forest,HPO__HP:0002475,Myelomeningocele (HP:0002475),0.0,0.0
+Random Forest,HPO__HP:0002493,Upper motor neuron dysfunction (HP:0002493),0.0,0.0
+Random Forest,HPO__HP:0002495,Impaired vibratory sensation (HP:0002495),0.0,0.0
+Random Forest,HPO__HP:0002497,Spastic ataxia (HP:0002497),0.0,0.0
+Random Forest,HPO__HP:0002503,Spinocerebellar tract degeneration (HP:0002503),0.0,0.0
+Random Forest,HPO__HP:0002505,Loss of ambulation (HP:0002505),0.0,0.0
+Random Forest,HPO__HP:0002506,Diffuse cerebral atrophy (HP:0002506),0.0,0.0
+Random Forest,HPO__HP:0002508,Brainstem dysplasia (HP:0002508),0.0,0.0
+Random Forest,HPO__HP:0002516,Increased intracranial pressure (HP:0002516),0.0,0.0
+Random Forest,HPO__HP:0002529,Neuronal loss in central nervous system (HP:0002529),0.0,0.0
+Random Forest,HPO__HP:0002530,Axial dystonia (HP:0002530),0.0,0.0
+Random Forest,HPO__HP:0002540,Inability to walk (HP:0002540),0.0,0.0
+Random Forest,HPO__HP:0002542,Olivopontocerebellar atrophy (HP:0002542),0.0,0.0
+Random Forest,HPO__HP:0002553,Highly arched eyebrow (HP:0002553),0.0,0.0
+Random Forest,HPO__HP:0002566,Intestinal malrotation (HP:0002566),0.0,0.0
+Random Forest,HPO__HP:0002591,Polyphagia (HP:0002591),0.0,0.0
+Random Forest,HPO__HP:0002612,Congenital hepatic fibrosis (HP:0002612),0.0,0.0
+Random Forest,HPO__HP:0002617,Vascular dilatation (HP:0002617),0.0,0.0
+Random Forest,HPO__HP:0002643,Neonatal respiratory distress (HP:0002643),0.0,0.0
+Random Forest,HPO__HP:0002751,Kyphoscoliosis (HP:0002751),0.0,0.0
+Random Forest,HPO__HP:0002789,Tachypnea (HP:0002789),0.0,0.0
+Random Forest,HPO__HP:0002790,Neonatal breathing dysregulation (HP:0002790),0.0,0.0
+Random Forest,HPO__HP:0002839,Urinary bladder sphincter dysfunction (HP:0002839),0.0,0.0
+Random Forest,HPO__HP:0002871,Central apnea (HP:0002871),0.0,0.0
+Random Forest,HPO__HP:0002876,Episodic tachypnea (HP:0002876),0.0,0.0
+Random Forest,HPO__HP:0002883,Hyperventilation (HP:0002883),0.0,0.0
+Random Forest,HPO__HP:0002910,Elevated circulating hepatic transaminase co… (HP:0002910),0.0,0.0
+Random Forest,HPO__HP:0002936,Distal sensory impairment (HP:0002936),0.0,0.0
+Random Forest,HPO__HP:0002938,Lumbar hyperlordosis (HP:0002938),0.0,0.0
+Random Forest,HPO__HP:0002974,Radioulnar synostosis (HP:0002974),0.0,0.0
+Random Forest,HPO__HP:0003016,Metaphyseal widening (HP:0003016),0.0,0.0
+Random Forest,HPO__HP:0003025,Metaphyseal irregularity (HP:0003025),0.0,0.0
+Random Forest,HPO__HP:0003026,Short long bone (HP:0003026),0.0,0.0
+Random Forest,HPO__HP:0003027,Mesomelia (HP:0003027),0.0,0.0
+Random Forest,HPO__HP:0003038,Fibular hypoplasia (HP:0003038),0.0,0.0
+Random Forest,HPO__HP:0003073,Hypoalbuminemia (HP:0003073),0.0,0.0
+Random Forest,HPO__HP:0003090,Hypoplasia of the capital femoral epiphysis (HP:0003090),0.0,0.0
+Random Forest,HPO__HP:0003124,Hypercholesterolemia (HP:0003124),0.0,0.0
+Random Forest,HPO__HP:0003173,Hypoplastic pubic bone (HP:0003173),0.0,0.0
+Random Forest,HPO__HP:0003180,Flat acetabular roof (HP:0003180),0.0,0.0
+Random Forest,HPO__HP:0003196,Short nose (HP:0003196),0.0,0.0
+Random Forest,HPO__HP:0003200,Ragged-red muscle fibers (HP:0003200),0.0,0.0
+Random Forest,HPO__HP:0003202,Skeletal muscle atrophy (HP:0003202),0.0,0.0
+Random Forest,HPO__HP:0003236,Elevated circulating creatine kinase activity (HP:0003236),0.0,0.0
+Random Forest,HPO__HP:0003241,External genital hypoplasia (HP:0003241),0.0,0.0
+Random Forest,HPO__HP:0003305,Block vertebrae (HP:0003305),0.0,0.0
+Random Forest,HPO__HP:0003363,Abdominal situs inversus (HP:0003363),0.0,0.0
+Random Forest,HPO__HP:0003375,Narrow greater sciatic notch (HP:0003375),0.0,0.0
+Random Forest,HPO__HP:0003376,Steppage gait (HP:0003376),0.0,0.0
+Random Forest,HPO__HP:0003380,Decreased number of peripheral myelinated ne… (HP:0003380),0.0,0.0
+Random Forest,HPO__HP:0003390,Sensory axonal neuropathy (HP:0003390),0.0,0.0
+Random Forest,HPO__HP:0003391,Gowers sign (HP:0003391),0.0,0.0
+Random Forest,HPO__HP:0003394,Muscle spasm (HP:0003394),0.0,0.0
+Random Forest,HPO__HP:0003401,Paresthesia (HP:0003401),0.0,0.0
+Random Forest,HPO__HP:0003431,Decreased motor nerve conduction velocity (HP:0003431),0.0,0.0
+Random Forest,HPO__HP:0003445,EMG: neuropathic changes (HP:0003445),0.0,0.0
+Random Forest,HPO__HP:0003448,Decreased sensory nerve conduction velocity (HP:0003448),0.0,0.0
+Random Forest,HPO__HP:0003474,Somatic sensory dysfunction (HP:0003474),0.0,0.0
+Random Forest,HPO__HP:0003477,Peripheral axonal neuropathy (HP:0003477),0.0,0.0
+Random Forest,HPO__HP:0003487,Babinski sign (HP:0003487),0.0,0.0
+Random Forest,HPO__HP:0003546,Exercise intolerance (HP:0003546),0.0,0.0
+Random Forest,HPO__HP:0003690,Limb muscle weakness (HP:0003690),0.0,0.0
+Random Forest,HPO__HP:0003693,Distal amyotrophy (HP:0003693),0.0,0.0
+Random Forest,HPO__HP:0003698,Difficulty standing (HP:0003698),0.0,0.0
+Random Forest,HPO__HP:0003701,Proximal muscle weakness (HP:0003701),0.0,0.0
+Random Forest,HPO__HP:0003762,Uterus didelphys (HP:0003762),0.0,0.0
+Random Forest,HPO__HP:0003763,Bruxism (HP:0003763),0.0,0.0
+Random Forest,HPO__HP:0003774,Stage 5 chronic kidney disease (HP:0003774),0.0,0.0
+Random Forest,HPO__HP:0004209,Clinodactyly of the 5th finger (HP:0004209),0.0,0.0
+Random Forest,HPO__HP:0004322,Short stature (HP:0004322),0.0,0.0
+Random Forest,HPO__HP:0004325,Decreased body weight (HP:0004325),0.0,0.0
+Random Forest,HPO__HP:0004326,Cachexia (HP:0004326),0.0,0.0
+Random Forest,HPO__HP:0004373,Focal dystonia (HP:0004373),0.0,0.0
+Random Forest,HPO__HP:0004383,Hypoplastic left ventricle (HP:0004383),0.0,0.0
+Random Forest,HPO__HP:0004396,Poor appetite (HP:0004396),0.0,0.0
+Random Forest,HPO__HP:0004409,Hyposmia (HP:0004409),0.0,0.0
+Random Forest,HPO__HP:0004425,Flat forehead (HP:0004425),0.0,0.0
+Random Forest,HPO__HP:0004428,Elfin facies (HP:0004428),0.0,0.0
+Random Forest,HPO__HP:0004442,Sagittal craniosynostosis (HP:0004442),0.0,0.0
+Random Forest,HPO__HP:0004469,Chronic bronchitis (HP:0004469),0.0,0.0
+Random Forest,HPO__HP:0004491,Large posterior fontanelle (HP:0004491),0.0,0.0
+Random Forest,HPO__HP:0004639,Elevated amniotic fluid alpha-fetoprotein co… (HP:0004639),0.0,0.0
+Random Forest,HPO__HP:0004691,2-3 toe syndactyly (HP:0004691),0.0,0.0
+Random Forest,HPO__HP:0004719,Hyperechogenic kidneys (HP:0004719),0.0,0.0
+Random Forest,HPO__HP:0004737,Global glomerulosclerosis (HP:0004737),0.0,0.0
+Random Forest,HPO__HP:0004762,Hypoplasia of right ventricle (HP:0004762),0.0,0.0
+Random Forest,HPO__HP:0004935,Pulmonary artery atresia (HP:0004935),0.0,0.0
+Random Forest,HPO__HP:0004971,Pulmonary artery hypoplasia (HP:0004971),0.0,0.0
+Random Forest,HPO__HP:0005160,Total anomalous pulmonary venous return (HP:0005160),0.0,0.0
+Random Forest,HPO__HP:0005257,Thoracic hypoplasia (HP:0005257),0.0,0.0
+Random Forest,HPO__HP:0005285,Absent nasal bridge (HP:0005285),0.0,0.0
+Random Forest,HPO__HP:0005343,Hypoplasia of the bladder (HP:0005343),0.0,0.0
+Random Forest,HPO__HP:0005474,Decreased calvarial ossification (HP:0005474),0.0,0.0
+Random Forest,HPO__HP:0005484,Secondary microcephaly (HP:0005484),0.0,0.0
+Random Forest,HPO__HP:0005487,Prominent metopic ridge (HP:0005487),0.0,0.0
+Random Forest,HPO__HP:0005565,Reduced renal corticomedullary differentiati… (HP:0005565),0.0,0.0
+Random Forest,HPO__HP:0005576,Tubulointerstitial fibrosis (HP:0005576),0.0,0.0
+Random Forest,HPO__HP:0005736,Short tibia (HP:0005736),0.0,0.0
+Random Forest,HPO__HP:0005819,Short middle phalanx of finger (HP:0005819),0.0,0.0
+Random Forest,HPO__HP:0005912,Biliary atresia (HP:0005912),0.0,0.0
+Random Forest,HPO__HP:0005938,Abnormal respiratory motile cilium morphology (HP:0005938),0.0,0.0
+Random Forest,HPO__HP:0006145,Central Y-shaped metacarpal (HP:0006145),0.0,0.0
+Random Forest,HPO__HP:0006159,Mesoaxial hand polydactyly (HP:0006159),0.0,0.0
+Random Forest,HPO__HP:0006254,Elevated circulating alpha-fetoprotein conce… (HP:0006254),0.0,0.0
+Random Forest,HPO__HP:0006267,Large placenta (HP:0006267),0.0,0.0
+Random Forest,HPO__HP:0006315,Solitary median maxillary central incisor (HP:0006315),0.0,0.0
+Random Forest,HPO__HP:0006487,Bowing of the long bones (HP:0006487),0.0,0.0
+Random Forest,HPO__HP:0006510,Chronic pulmonary obstruction (HP:0006510),0.0,0.0
+Random Forest,HPO__HP:0006532,Recurrent pneumonia (HP:0006532),0.0,0.0
+Random Forest,HPO__HP:0006563,Malformation of the hepatic ductal plate (HP:0006563),0.0,0.0
+Random Forest,HPO__HP:0006610,Wide intermamillary distance (HP:0006610),0.0,0.0
+Random Forest,HPO__HP:0006695,Atrioventricular canal defect (HP:0006695),0.0,0.0
+Random Forest,HPO__HP:0006817,Aplasia/Hypoplasia of the cerebellar vermis (HP:0006817),0.0,0.0
+Random Forest,HPO__HP:0006855,Cerebellar vermis atrophy (HP:0006855),0.0,0.0
+Random Forest,HPO__HP:0006858,Impaired distal proprioception (HP:0006858),0.0,0.0
+Random Forest,HPO__HP:0006872,Cerebral hypoplasia (HP:0006872),0.0,0.0
+Random Forest,HPO__HP:0006879,Pontocerebellar atrophy (HP:0006879),0.0,0.0
+Random Forest,HPO__HP:0006886,Impaired distal vibration sensation (HP:0006886),0.0,0.0
+Random Forest,HPO__HP:0006889,Borderline intellectual disability (HP:0006889),0.0,0.0
+Random Forest,HPO__HP:0006895,Lower limb hypertonia (HP:0006895),0.0,0.0
+Random Forest,HPO__HP:0006937,Impaired distal tactile sensation (HP:0006937),0.0,0.0
+Random Forest,HPO__HP:0006938,Impaired vibration sensation at ankles (HP:0006938),0.0,0.0
+Random Forest,HPO__HP:0006988,Alobar holoprosencephaly (HP:0006988),0.0,0.0
+Random Forest,HPO__HP:0007000,Morning myoclonic jerks (HP:0007000),0.0,0.0
+Random Forest,HPO__HP:0007001,Loss of Purkinje cells in the cerebellar ver… (HP:0007001),0.0,0.0
+Random Forest,HPO__HP:0007006,Dorsal column degeneration (HP:0007006),0.0,0.0
+Random Forest,HPO__HP:0007018,Attention deficit hyperactivity disorder (HP:0007018),0.0,0.0
+Random Forest,HPO__HP:0007024,Pseudobulbar paralysis (HP:0007024),0.0,0.0
+Random Forest,HPO__HP:0007078,Decreased amplitude of sensory action potent… (HP:0007078),0.0,0.0
+Random Forest,HPO__HP:0007141,Sensorimotor neuropathy (HP:0007141),0.0,0.0
+Random Forest,HPO__HP:0007240,Progressive gait ataxia (HP:0007240),0.0,0.0
+Random Forest,HPO__HP:0007256,Abnormal pyramidal sign (HP:0007256),0.0,0.0
+Random Forest,HPO__HP:0007263,Spinocerebellar atrophy (HP:0007263),0.0,0.0
+Random Forest,HPO__HP:0007267,Chronic axonal neuropathy (HP:0007267),0.0,0.0
+Random Forest,HPO__HP:0007286,Horizontal jerk nystagmus (HP:0007286),0.0,0.0
+Random Forest,HPO__HP:0007289,Limb fasciculations (HP:0007289),0.0,0.0
+Random Forest,HPO__HP:0007305,CNS demyelination (HP:0007305),0.0,0.0
+Random Forest,HPO__HP:0007328,Impaired pain sensation (HP:0007328),0.0,0.0
+Random Forest,HPO__HP:0007338,Hypermetric saccades (HP:0007338),0.0,0.0
+Random Forest,HPO__HP:0007340,Lower limb muscle weakness (HP:0007340),0.0,0.0
+Random Forest,HPO__HP:0007366,Atrophy/Degeneration affecting the brainstem (HP:0007366),0.0,0.0
+Random Forest,HPO__HP:0007369,Atrophy/Degeneration affecting the cerebrum (HP:0007369),0.0,0.0
+Random Forest,HPO__HP:0007668,Impaired pursuit initiation and maintenance (HP:0007668),0.0,0.0
+Random Forest,HPO__HP:0007670,Abnormal vestibulo-ocular reflex (HP:0007670),0.0,0.0
+Random Forest,HPO__HP:0007675,Progressive night blindness (HP:0007675),0.0,0.0
+Random Forest,HPO__HP:0007676,Hypoplasia of the iris (HP:0007676),0.0,0.0
+Random Forest,HPO__HP:0007688,Undetectable light- and dark-adapted electro… (HP:0007688),0.0,0.0
+Random Forest,HPO__HP:0007703,Abnormal retinal pigmentation (HP:0007703),0.0,0.0
+Random Forest,HPO__HP:0007722,Retinal pigment epithelial atrophy (HP:0007722),0.0,0.0
+Random Forest,HPO__HP:0007754,Macular dystrophy (HP:0007754),0.0,0.0
+Random Forest,HPO__HP:0007772,Impaired smooth pursuit (HP:0007772),0.0,0.0
+Random Forest,HPO__HP:0007787,Posterior subcapsular cataract (HP:0007787),0.0,0.0
+Random Forest,HPO__HP:0007792,Microsaccadic pursuit (HP:0007792),0.0,0.0
+Random Forest,HPO__HP:0007814,Retinal pigment epithelial mottling (HP:0007814),0.0,0.0
+Random Forest,HPO__HP:0007843,Attenuation of retinal blood vessels (HP:0007843),0.0,0.0
+Random Forest,HPO__HP:0007859,Congenital horizontal nystagmus (HP:0007859),0.0,0.0
+Random Forest,HPO__HP:0007875,Congenital blindness (HP:0007875),0.0,0.0
+Random Forest,HPO__HP:0007885,Slowed horizontal saccades (HP:0007885),0.0,0.0
+Random Forest,HPO__HP:0007944,Intermittent microsaccadic pursuits (HP:0007944),0.0,0.0
+Random Forest,HPO__HP:0007979,Gaze-evoked horizontal nystagmus (HP:0007979),0.0,0.0
+Random Forest,HPO__HP:0007988,Macular hypopigmentation (HP:0007988),0.0,0.0
+Random Forest,HPO__HP:0007994,Peripheral visual field loss (HP:0007994),0.0,0.0
+Random Forest,HPO__HP:0008001,Foveal hyperpigmentation (HP:0008001),0.0,0.0
+Random Forest,HPO__HP:0008002,Abnormal macular pigmentation (HP:0008002),0.0,0.0
+Random Forest,HPO__HP:0008003,Jerky ocular pursuit movements (HP:0008003),0.0,0.0
+Random Forest,HPO__HP:0008081,Pes valgus (HP:0008081),0.0,0.0
+Random Forest,HPO__HP:0008278,Cerebellar cortical atrophy (HP:0008278),0.0,0.0
+Random Forest,HPO__HP:0008323,Abnormal light- and dark-adapted electroreti… (HP:0008323),0.0,0.0
+Random Forest,HPO__HP:0008428,Vertebral clefting (HP:0008428),0.0,0.0
+Random Forest,HPO__HP:0008551,Microtia (HP:0008551),0.0,0.0
+Random Forest,HPO__HP:0008689,Bilateral cryptorchidism (HP:0008689),0.0,0.0
+Random Forest,HPO__HP:0008749,Laryngeal hypoplasia (HP:0008749),0.0,0.0
+Random Forest,HPO__HP:0008905,Rhizomelia (HP:0008905),0.0,0.0
+Random Forest,HPO__HP:0008935,Generalized neonatal hypotonia (HP:0008935),0.0,0.0
+Random Forest,HPO__HP:0008936,Axial hypotonia (HP:0008936),0.0,0.0
+Random Forest,HPO__HP:0009027,Foot dorsiflexor weakness (HP:0009027),0.0,0.0
+Random Forest,HPO__HP:0009049,Peroneal muscle atrophy (HP:0009049),0.0,0.0
+Random Forest,HPO__HP:0009099,Median cleft palate (HP:0009099),0.0,0.0
+Random Forest,HPO__HP:0009162,Absent middle phalanx of 5th finger (HP:0009162),0.0,0.0
+Random Forest,HPO__HP:0009466,Radial deviation of finger (HP:0009466),0.0,0.0
+Random Forest,HPO__HP:0009487,Ulnar deviation of the hand (HP:0009487),0.0,0.0
+Random Forest,HPO__HP:0009576,Absent middle phalanx of 2nd finger (HP:0009576),0.0,0.0
+Random Forest,HPO__HP:0009803,Short phalanx of finger (HP:0009803),0.0,0.0
+Random Forest,HPO__HP:0009826,Limb undergrowth (HP:0009826),0.0,0.0
+Random Forest,HPO__HP:0009830,Peripheral neuropathy (HP:0009830),0.0,0.0
+Random Forest,HPO__HP:0009878,Cerebellar ataxia associated with quadrupeda… (HP:0009878),0.0,0.0
+Random Forest,HPO__HP:0009882,Short distal phalanx of finger (HP:0009882),0.0,0.0
+Random Forest,HPO__HP:0009914,Cyclopia (HP:0009914),0.0,0.0
+Random Forest,HPO__HP:0009931,Enlarged naris (HP:0009931),0.0,0.0
+Random Forest,HPO__HP:0009932,Single naris (HP:0009932),0.0,0.0
+Random Forest,HPO__HP:0010049,Short metacarpal (HP:0010049),0.0,0.0
+Random Forest,HPO__HP:0010305,Absence of the sacrum (HP:0010305),0.0,0.0
+Random Forest,HPO__HP:0010306,Short thorax (HP:0010306),0.0,0.0
+Random Forest,HPO__HP:0010442,Polydactyly (HP:0010442),0.0,0.0
+Random Forest,HPO__HP:0010526,Dysgraphia (HP:0010526),0.0,0.0
+Random Forest,HPO__HP:0010529,Echolalia (HP:0010529),0.0,0.0
+Random Forest,HPO__HP:0010543,Opsoclonus (HP:0010543),0.0,0.0
+Random Forest,HPO__HP:0010545,Downbeat nystagmus (HP:0010545),0.0,0.0
+Random Forest,HPO__HP:0010702,Increased circulating immunoglobulin concent… (HP:0010702),0.0,0.0
+Random Forest,HPO__HP:0010743,Short metatarsal (HP:0010743),0.0,0.0
+Random Forest,HPO__HP:0010831,Impaired proprioception (HP:0010831),0.0,0.0
+Random Forest,HPO__HP:0010862,Delayed fine motor development (HP:0010862),0.0,0.0
+Random Forest,HPO__HP:0010864,Severe intellectual disability (HP:0010864),0.0,0.0
+Random Forest,HPO__HP:0010946,Dilatation of the renal pelvis (HP:0010946),0.0,0.0
+Random Forest,HPO__HP:0011094,Increased overbite (HP:0011094),0.0,0.0
+Random Forest,HPO__HP:0011108,Recurrent sinusitis (HP:0011108),0.0,0.0
+Random Forest,HPO__HP:0011109,Chronic sinusitis (HP:0011109),0.0,0.0
+Random Forest,HPO__HP:0011220,Prominent forehead (HP:0011220),0.0,0.0
+Random Forest,HPO__HP:0011330,Metopic synostosis (HP:0011330),0.0,0.0
+Random Forest,HPO__HP:0011340,Incomplete cleft of the upper lip (HP:0011340),0.0,0.0
+Random Forest,HPO__HP:0011402,Demyelinating sensory neuropathy (HP:0011402),0.0,0.0
+Random Forest,HPO__HP:0011448,Ankle clonus (HP:0011448),0.0,0.0
+Random Forest,HPO__HP:0011467,Absent gallbladder (HP:0011467),0.0,0.0
+Random Forest,HPO__HP:0011505,Cystoid macular edema (HP:0011505),0.0,0.0
+Random Forest,HPO__HP:0011536,Right atrial isomerism (HP:0011536),0.0,0.0
+Random Forest,HPO__HP:0011560,Mitral atresia (HP:0011560),0.0,0.0
+Random Forest,HPO__HP:0011565,Common atrium (HP:0011565),0.0,0.0
+Random Forest,HPO__HP:0011611,Interrupted aortic arch (HP:0011611),0.0,0.0
+Random Forest,HPO__HP:0011670,Left superior vena cava draining to coronary… (HP:0011670),0.0,0.0
+Random Forest,HPO__HP:0011671,Interrupted inferior vena cava with azygous … (HP:0011671),0.0,0.0
+Random Forest,HPO__HP:0011800,Midface retrusion (HP:0011800),0.0,0.0
+Random Forest,HPO__HP:0011802,Hamartoma of tongue (HP:0011802),0.0,0.0
+Random Forest,HPO__HP:0011861,Bilateral trilobed lung (HP:0011861),0.0,0.0
+Random Forest,HPO__HP:0011922,Abnormal activity of mitochondrial respirato… (HP:0011922),0.0,0.0
+Random Forest,HPO__HP:0011933,Elongated superior cerebellar peduncle (HP:0011933),0.0,0.0
+Random Forest,HPO__HP:0011939,3-4 finger cutaneous syndactyly (HP:0011939),0.0,0.0
+Random Forest,HPO__HP:0011968,Feeding difficulties (HP:0011968),0.0,0.0
+Random Forest,HPO__HP:0011999,Paranoia (HP:0011999),0.0,0.0
+Random Forest,HPO__HP:0012020,Right aortic arch (HP:0012020),0.0,0.0
+Random Forest,HPO__HP:0012047,Hemeralopia (HP:0012047),0.0,0.0
+Random Forest,HPO__HP:0012207,Reduced sperm motility (HP:0012207),0.0,0.0
+Random Forest,HPO__HP:0012208,Immotile sperm (HP:0012208),0.0,0.0
+Random Forest,HPO__HP:0012210,Abnormal renal morphology (HP:0012210),0.0,0.0
+Random Forest,HPO__HP:0012256,Absent outer dynein arms (HP:0012256),0.0,0.0
+Random Forest,HPO__HP:0012260,Abnormal central microtubular pair morpholog… (HP:0012260),0.0,0.0
+Random Forest,HPO__HP:0012262,Abnormal ciliary motility (HP:0012262),0.0,0.0
+Random Forest,HPO__HP:0012263,Immotile cilia (HP:0012263),0.0,0.0
+Random Forest,HPO__HP:0012304,Hypoplastic aortic arch (HP:0012304),0.0,0.0
+Random Forest,HPO__HP:0012368,Flat face (HP:0012368),0.0,0.0
+Random Forest,HPO__HP:0012384,Rhinitis (HP:0012384),0.0,0.0
+Random Forest,HPO__HP:0012385,Camptodactyly (HP:0012385),0.0,0.0
+Random Forest,HPO__HP:0012426,Optic disc drusen (HP:0012426),0.0,0.0
+Random Forest,HPO__HP:0012428,Prominent calcaneus (HP:0012428),0.0,0.0
+Random Forest,HPO__HP:0012471,Thick vermilion border (HP:0012471),0.0,0.0
+Random Forest,HPO__HP:0012473,Tongue atrophy (HP:0012473),0.0,0.0
+Random Forest,HPO__HP:0012514,Lower limb pain (HP:0012514),0.0,0.0
+Random Forest,HPO__HP:0012622,Chronic kidney disease (HP:0012622),0.0,0.0
+Random Forest,HPO__HP:0012745,Short palpebral fissure (HP:0012745),0.0,0.0
+Random Forest,HPO__HP:0012758,Neurodevelopmental delay (HP:0012758),0.0,0.0
+Random Forest,HPO__HP:0012806,Proboscis (HP:0012806),0.0,0.0
+Random Forest,HPO__HP:0012841,Retinal vascular tortuosity (HP:0012841),0.0,0.0
+Random Forest,HPO__HP:0012890,Posteriorly placed anus (HP:0012890),0.0,0.0
+Random Forest,HPO__HP:0012896,Abnormal motor evoked potentials (HP:0012896),0.0,0.0
+Random Forest,HPO__HP:0020045,Esodeviation (HP:0020045),0.0,0.0
+Random Forest,HPO__HP:0020049,Exodeviation (HP:0020049),0.0,0.0
+Random Forest,HPO__HP:0020185,Superior cerebellar dysplasia (HP:0020185),0.0,0.0
+Random Forest,HPO__HP:0025147,Beaten bronze macular sheen (HP:0025147),0.0,0.0
+Random Forest,HPO__HP:0025158,Hyperautofluorescent retinal lesion (HP:0025158),0.0,0.0
+Random Forest,HPO__HP:0025335,Delayed ability to stand (HP:0025335),0.0,0.0
+Random Forest,HPO__HP:0025336,Delayed ability to sit (HP:0025336),0.0,0.0
+Random Forest,HPO__HP:0030084,Clinodactyly (HP:0030084),0.0,0.0
+Random Forest,HPO__HP:0030147,Truncal titubation (HP:0030147),0.0,0.0
+Random Forest,HPO__HP:0030151,Cholangitis (HP:0030151),0.0,0.0
+Random Forest,HPO__HP:0030177,Abnormality of peripheral nervous system ele… (HP:0030177),0.0,0.0
+Random Forest,HPO__HP:0030211,Slow pupillary light response (HP:0030211),0.0,0.0
+Random Forest,HPO__HP:0030466,Abnormal full-field electroretinogram (HP:0030466),0.0,0.0
+Random Forest,HPO__HP:0030505,Nummular pigmentation of the retina (HP:0030505),0.0,0.0
+Random Forest,HPO__HP:0030529,Ring scotoma (HP:0030529),0.0,0.0
+Random Forest,HPO__HP:0030631,Hyperautofluorescent macular lesion (HP:0030631),0.0,0.0
+Random Forest,HPO__HP:0030672,Asteroid hyalosis (HP:0030672),0.0,0.0
+Random Forest,HPO__HP:0030799,Scaphocephaly (HP:0030799),0.0,0.0
+Random Forest,HPO__HP:0030853,Heterotaxy (HP:0030853),0.0,0.0
+Random Forest,HPO__HP:0030902,Palmomental reflex (HP:0030902),0.0,0.0
+Random Forest,HPO__HP:0031166,Eyelid myokymia (HP:0031166),0.0,0.0
+Random Forest,HPO__HP:0031245,Productive cough (HP:0031245),0.0,0.0
+Random Forest,HPO__HP:0031348,Dextrotransposition of the great arteries (HP:0031348),0.0,0.0
+Random Forest,HPO__HP:0031491,Continuous spike and waves during slow sleep (HP:0031491),0.0,0.0
+Random Forest,HPO__HP:0031565,Abdominal situs ambiguus (HP:0031565),0.0,0.0
+Random Forest,HPO__HP:0031624,Moderate myopia (HP:0031624),0.0,0.0
+Random Forest,HPO__HP:0031629,Impaired tandem gait (HP:0031629),0.0,0.0
+Random Forest,HPO__HP:0031936,Delayed ability to walk (HP:0031936),0.0,0.0
+Random Forest,HPO__HP:0032078,Angel-shaped phalanx (HP:0032078),0.0,0.0
+Random Forest,HPO__HP:0032285,Ultra-low vision with retained light project… (HP:0032285),0.0,0.0
+Random Forest,HPO__HP:0032341,Reduced forced vital capacity (HP:0032341),0.0,0.0
+Random Forest,HPO__HP:0032342,Reduced forced expiratory volume in one seco… (HP:0032342),0.0,0.0
+Random Forest,HPO__HP:0032948,Renal interstitial fibrosis (HP:0032948),0.0,0.0
+Random Forest,HPO__HP:0032988,Persistent head lag (HP:0032988),0.0,0.0
+Random Forest,HPO__HP:0033036,Decreased nasal nitric oxide (HP:0033036),0.0,0.0
+Random Forest,HPO__HP:0033128,Delayed ability to crawl (HP:0033128),0.0,0.0
+Random Forest,HPO__HP:0033149,Intrahepatic bile duct dilatation (HP:0033149),0.0,0.0
+Random Forest,HPO__HP:0033257,Delayed ability to walk with support (HP:0033257),0.0,0.0
+Random Forest,HPO__HP:0033379,Bilateral superior vena cava (HP:0033379),0.0,0.0
+Random Forest,HPO__HP:0033601,Glomerular subepithelial immune-complex depo… (HP:0033601),0.0,0.0
+Random Forest,HPO__HP:0033683,Jaw hyperreflexia (HP:0033683),0.0,0.0
+Random Forest,HPO__HP:0034272,Perifoveal hypoautofluorescence (HP:0034272),0.0,0.0
+Random Forest,HPO__HP:0034281,Phalangeal cone-shaped epiphyses (HP:0034281),0.0,0.0
+Random Forest,HPO__HP:0034435,Abnormal eye contact (HP:0034435),0.0,0.0
+Random Forest,HPO__HP:0040022,Clinodactyly of the 2nd finger (HP:0040022),0.0,0.0
+Random Forest,HPO__HP:0045025,Narrow palpebral fissure (HP:0045025),0.0,0.0
+Random Forest,HPO__HP:0100018,Nuclear cataract (HP:0100018),0.0,0.0
+Random Forest,HPO__HP:0100021,Cerebral palsy (HP:0100021),0.0,0.0
+Random Forest,HPO__HP:0100258,Preaxial polydactyly (HP:0100258),0.0,0.0
+Random Forest,HPO__HP:0100259,Postaxial polydactyly (HP:0100259),0.0,0.0
+Random Forest,HPO__HP:0100275,Diffuse cerebellar atrophy (HP:0100275),0.0,0.0
+Random Forest,HPO__HP:0100490,Camptodactyly of finger (HP:0100490),0.0,0.0
+Random Forest,HPO__HP:0100543,Cognitive impairment (HP:0100543),0.0,0.0
+Random Forest,HPO__HP:0100582,Nasal polyposis (HP:0100582),0.0,0.0
+Random Forest,HPO__HP:0100628,Esophageal diverticulum (HP:0100628),0.0,0.0
+Random Forest,HPO__HP:0100660,Dyskinesia (HP:0100660),0.0,0.0
+Random Forest,HPO__HP:0100702,Arachnoid cyst (HP:0100702),0.0,0.0
+Random Forest,HPO__HP:0100704,Cerebral visual impairment (HP:0100704),0.0,0.0
+Random Forest,HPO__HP:0100710,Impulsivity (HP:0100710),0.0,0.0
+Random Forest,HPO__HP:0100750,Atelectasis (HP:0100750),0.0,0.0
+Random Forest,HPO__HP:0100785,Insomnia (HP:0100785),0.0,0.0
+Random Forest,HPO__HP:0100818,Long thorax (HP:0100818),0.0,0.0
+Random Forest,HPO__HP:0100866,Short iliac bones (HP:0100866),0.0,0.0
+Random Forest,HPO__HP:0100951,Enlarged fossa interpeduncularis (HP:0100951),0.0,0.0
+Random Forest,HPO__HP:0200073,Respiratory insufficiency due to defective c… (HP:0200073),0.0,0.0
+Random Forest,HPO__HP:0410030,Cleft lip (HP:0410030),0.0,0.0
+Random Forest,HPO__HP:0430025,Bilateral facial palsy (HP:0430025),0.0,0.0
+Random Forest,INH_ANTICIPATION,Inheritance: ANTICIPATION,0.0,0.0
+Random Forest,INH_INCOMPLETE_PENETRANCE,Inheritance: INCOMPLETE_PENETRANCE,0.0,0.0
+Random Forest,INH_UNKNOWN,Inheritance: UNKNOWN,0.0,0.0
+Random Forest,INH_XLR,Inheritance: XLR,0.0,0.0
+Random Forest,SYS__abdomen,Organ system: abdomen,0.0,0.0
+Random Forest,SYS__cardiovascular,Organ system: cardiovascular,0.0,0.0
+Random Forest,SYS__endocrine,Organ system: endocrine,0.0,0.0
+Random Forest,SYS__growth,Organ system: growth,0.0,0.0
+Random Forest,SYS__immune_system,Organ system: immune system,0.0,0.0
+Random Forest,SYS__metabolism,Organ system: metabolism,0.0,0.0
+Random Forest,SYS__respiratory,Organ system: respiratory,0.0,0.0
+Random Forest,SYS__skin,Organ system: skin,0.0,0.0
+Random Forest,HPO__HP:0000551,Color vision defect (HP:0000551),-0.0006329113924050611,0.0028304657943035213
+Random Forest,HPO__HP:0000608,Macular degeneration (HP:0000608),-0.0006329113924050611,0.0028304657943035213
+Random Forest,HPO__HP:0011504,Bull's eye maculopathy (HP:0011504),-0.0006329113924050611,0.0028304657943035213
+Random Forest,HPO__HP:0007641,Dyschromatopsia (HP:0007641),-0.0012658227848101223,0.0038961203243739885
+Random Forest,HPO__HP:0001133,Constriction of peripheral visual field (HP:0001133),-0.0018987341772151833,0.004637310740918
+Random Forest,INH_AR,Inheritance: AR,-0.0031645569620253056,0.00906772657482755
+Random Forest,INH_AD,Inheritance: AD,-0.004430379746835428,0.008491397382910564
+Random Forest,HPO__HP:0000252,Microcephaly (HP:0000252),-0.009493670886075917,0.005623565295181238
+Random Forest,HPO__HP:0000662,Nyctalopia (HP:0000662),-0.010126582278480989,0.007792240648748001
+Random Forest,HPO__HP:0000601,Hypotelorism (HP:0000601),-0.01075949367088604,0.004637310740918
+Random Forest,HPO__HP:0006870,Lobar holoprosencephaly (HP:0006870),-0.012658227848101222,0.0
+XGBoost,HPO__HP:0001260,Dysarthria (HP:0001260),0.0645569620253165,0.018320513586984746
+XGBoost,HPO__HP:0000510,Rod-cone dystrophy (HP:0000510),0.0556962025316456,0.023376721946244034
+XGBoost,SYS__ear,Organ system: ear,0.034177215189873426,0.02215427797254229
+XGBoost,HPO__HP:0007737,Spicular pigmentation of the retina (HP:0007737),0.02848101265822787,0.012234755277952649
+XGBoost,HPO__HP:0000774,Narrow chest (HP:0000774),0.02658227848101268,0.006993750018393425
+XGBoost,HPO__HP:0002419,Molar tooth sign on MRI (HP:0002419),0.025949367088607615,0.010450353765593591
+XGBoost,HPO__HP:0001272,Cerebellar atrophy (HP:0001272),0.025316455696202556,0.00711330996137993
+XGBoost,HPO__HP:0002110,Bronchiectasis (HP:0002110),0.023417721518987376,0.011813949423882624
+XGBoost,HPO__HP:0000548,Cone/cone-rod dystrophy (HP:0000548),0.018987341772151944,0.006493533873956649
+XGBoost,HPO__HP:0000601,Hypotelorism (HP:0000601),0.018987341772151944,0.006493533873956649
+XGBoost,HPO__HP:0000639,Nystagmus (HP:0000639),0.016455696202531685,0.01238887303619221
+XGBoost,HPO__HP:0000180,Lobulated tongue (HP:0000180),0.015822784810126632,0.008084384476689922
+XGBoost,HPO__HP:0004322,Short stature (HP:0004322),0.015189873417721572,0.00779224064874799
+XGBoost,HPO__HP:0000613,Photophobia (HP:0000613),0.013924050632911456,0.00389612032437399
+XGBoost,HPO__HP:0001751,Abnormal vestibular function (HP:0001751),0.013924050632911456,0.003896120324373989
+XGBoost,HPO__HP:0001156,Brachydactyly (HP:0001156),0.013924050632911444,0.006993750018393449
+XGBoost,HPO__HP:0000543,Optic disc pallor (HP:0000543),0.013924050632911439,0.008110421209078324
+XGBoost,HPO__HP:0002657,Spondylometaphyseal dysplasia (HP:0002657),0.013291139240506395,0.0028304657943035213
+XGBoost,HPO__HP:0000822,Hypertension (HP:0000822),0.01329113924050639,0.004987778010458304
+XGBoost,HPO__HP:0000407,Sensorineural hearing impairment (HP:0000407),0.012658227848101333,0.0
+XGBoost,SYS__cardiovascular,Organ system: cardiovascular,0.012658227848101306,0.009183243672278636
+XGBoost,HPO__HP:0001408,Bile duct proliferation (HP:0001408),0.012025316455696267,0.002830465794303546
+XGBoost,HPO__HP:0000505,Visual impairment (HP:0000505),0.0113924050632912,0.0038961203243740236
+XGBoost,HPO__HP:0000563,Keratoconus (HP:0000563),0.0113924050632912,0.003896120324374024
+XGBoost,HPO__HP:0000090,Nephronophthisis (HP:0000090),0.011392405063291167,0.01585273647502057
+XGBoost,HPO__HP:0001513,Obesity (HP:0001513),0.010759493670886106,0.011813949423882654
+XGBoost,HPO__HP:0000347,Micrognathia (HP:0000347),0.009493670886076,0.005623565295181288
+XGBoost,SYS__genitourinary,Organ system: genitourinary,0.00949367088607599,0.008084384476689957
+XGBoost,SYS__skeletal,Organ system: skeletal,0.008227848101265867,0.008491397382910612
+XGBoost,SYS__limbs,Organ system: limbs,0.006962025316455733,0.006460984627013204
+XGBoost,INH_AR,Inheritance: AR,0.006962025316455717,0.009609552588813287
+XGBoost,SYS__nervous_system,Organ system: nervous system,0.006329113924050667,0.006493533873956706
+XGBoost,HPO__HP:0001696,Situs inversus totalis (HP:0001696),0.005696202531645595,0.007655763529484828
+XGBoost,HPO__HP:0000369,Low-set ears (HP:0000369),0.0050632911392405385,0.011171898103266945
+XGBoost,HPO__HP:0007843,Attenuation of retinal blood vessels (HP:0007843),0.005063291139240528,0.007572696729317985
+XGBoost,SYS__growth,Organ system: growth,0.004430379746835467,0.006194436518096146
+XGBoost,HPO__HP:0001320,Cerebellar vermis hypoplasia (HP:0001320),0.0025316455696202667,0.005194827099165365
+XGBoost,HPO__HP:0001651,Dextrocardia (HP:0001651),0.0025316455696202667,0.005194827099165365
+XGBoost,HPO__HP:0012265,Ciliary dyskinesia (HP:0012265),0.0025316455696202667,0.005194827099165365
+XGBoost,HPO__HP:0007663,Reduced visual acuity (HP:0007663),0.002531645569620261,0.00880825789795519
+XGBoost,HPO__HP:0001249,Intellectual disability (HP:0001249),0.0018987341772152056,0.006194436518096132
+XGBoost,HPO__HP:0000286,Epicanthus (HP:0000286),0.0018987341772152,0.00463731074091804
+XGBoost,HPO__HP:0001830,Postaxial foot polydactyly (HP:0001830),0.0018987341772152,0.00463731074091804
+XGBoost,SYS__eye,Organ system: eye,0.0018987341772152,0.004637310740918041
+XGBoost,SYS__immune_system,Organ system: immune system,0.0018987341772152,0.004637310740918041
+XGBoost,SYS__head_neck,Organ system: head neck,0.0012658227848101554,0.009090947423539351
+XGBoost,HPO__HP:0000546,Retinal degeneration (HP:0000546),0.0012658227848101333,0.003896120324374024
+XGBoost,HPO__HP:0000551,Color vision defect (HP:0000551),0.0012658227848101333,0.003896120324374024
+XGBoost,HPO__HP:0000556,Retinal dystrophy (HP:0000556),0.0012658227848101333,0.003896120324374024
+XGBoost,HPO__HP:0001270,Motor delay (HP:0001270),0.0012658227848101333,0.003896120324374024
+XGBoost,HPO__HP:0001321,Cerebellar hypoplasia (HP:0001321),0.0012658227848101333,0.003896120324374024
+XGBoost,HPO__HP:0002121,Generalized non-motor (absence) seizure (HP:0002121),0.0012658227848101333,0.003896120324374024
+XGBoost,HPO__HP:0003026,Short long bone (HP:0003026),0.0012658227848101333,0.003896120324374024
+XGBoost,HPO__HP:0003774,Stage 5 chronic kidney disease (HP:0003774),0.0012658227848101333,0.003896120324374024
+XGBoost,SYS__abdomen,Organ system: abdomen,0.0006329113924050944,0.00960955258881328
+XGBoost,HPO__HP:0000135,Hypogonadism (HP:0000135),0.0006329113924050722,0.0049877780104583165
+XGBoost,HPO__HP:0000083,Renal insufficiency (HP:0000083),0.0006329113924050667,0.002830465794303546
+XGBoost,HPO__HP:0000113,Polycystic kidney dysplasia (HP:0000113),0.0006329113924050667,0.002830465794303546
+XGBoost,HPO__HP:0000252,Microcephaly (HP:0000252),0.0006329113924050667,0.002830465794303546
+XGBoost,HPO__HP:0001256,Mild intellectual disability (HP:0001256),0.0006329113924050667,0.002830465794303546
+XGBoost,HPO__HP:0001382,Joint hypermobility (HP:0001382),0.0006329113924050667,0.002830465794303546
+XGBoost,HPO__HP:0001562,Oligohydramnios (HP:0001562),0.0006329113924050667,0.002830465794303546
+XGBoost,HPO__HP:0002078,Truncal ataxia (HP:0002078),0.0006329113924050667,0.002830465794303546
+XGBoost,HPO__HP:0002194,Delayed gross motor development (HP:0002194),0.0006329113924050667,0.002830465794303546
+XGBoost,HPO__HP:0007722,Retinal pigment epithelial atrophy (HP:0007722),0.0006329113924050667,0.002830465794303546
+XGBoost,HPO__HP:0008905,Rhizomelia (HP:0008905),0.0006329113924050667,0.002830465794303546
+XGBoost,HPO__HP:0011968,Feeding difficulties (HP:0011968),0.0006329113924050667,0.002830465794303546
+XGBoost,HPO__HP:0000003,Multicystic kidney dysplasia (HP:0000003),0.0,0.0
+XGBoost,HPO__HP:0000012,Urinary urgency (HP:0000012),0.0,0.0
+XGBoost,HPO__HP:0000020,Urinary incontinence (HP:0000020),0.0,0.0
+XGBoost,HPO__HP:0000023,Inguinal hernia (HP:0000023),0.0,0.0
+XGBoost,HPO__HP:0000026,Male hypogonadism (HP:0000026),0.0,0.0
+XGBoost,HPO__HP:0000028,Cryptorchidism (HP:0000028),0.0,0.0
+XGBoost,HPO__HP:0000033,"Ambiguous genitalia, male (HP:0000033)",0.0,0.0
+XGBoost,HPO__HP:0000041,Chordee (HP:0000041),0.0,0.0
+XGBoost,HPO__HP:0000047,Hypospadias (HP:0000047),0.0,0.0
+XGBoost,HPO__HP:0000050,Hypoplastic male external genitalia (HP:0000050),0.0,0.0
+XGBoost,HPO__HP:0000054,Micropenis (HP:0000054),0.0,0.0
+XGBoost,HPO__HP:0000061,"Ambiguous genitalia, female (HP:0000061)",0.0,0.0
+XGBoost,HPO__HP:0000069,Abnormality of the ureter (HP:0000069),0.0,0.0
+XGBoost,HPO__HP:0000073,Ureteral duplication (HP:0000073),0.0,0.0
+XGBoost,HPO__HP:0000077,Abnormality of the kidney (HP:0000077),0.0,0.0
+XGBoost,HPO__HP:0000085,Horseshoe kidney (HP:0000085),0.0,0.0
+XGBoost,HPO__HP:0000089,Renal hypoplasia (HP:0000089),0.0,0.0
+XGBoost,HPO__HP:0000093,Proteinuria (HP:0000093),0.0,0.0
+XGBoost,HPO__HP:0000103,Polyuria (HP:0000103),0.0,0.0
+XGBoost,HPO__HP:0000104,Renal agenesis (HP:0000104),0.0,0.0
+XGBoost,HPO__HP:0000105,Enlarged kidney (HP:0000105),0.0,0.0
+XGBoost,HPO__HP:0000107,Renal cyst (HP:0000107),0.0,0.0
+XGBoost,HPO__HP:0000110,Renal dysplasia (HP:0000110),0.0,0.0
+XGBoost,HPO__HP:0000126,Hydronephrosis (HP:0000126),0.0,0.0
+XGBoost,HPO__HP:0000130,Abnormality of the uterus (HP:0000130),0.0,0.0
+XGBoost,HPO__HP:0000154,Wide mouth (HP:0000154),0.0,0.0
+XGBoost,HPO__HP:0000158,Macroglossia (HP:0000158),0.0,0.0
+XGBoost,HPO__HP:0000161,Median cleft upper lip (HP:0000161),0.0,0.0
+XGBoost,HPO__HP:0000175,Cleft palate (HP:0000175),0.0,0.0
+XGBoost,HPO__HP:0000176,Submucous cleft hard palate (HP:0000176),0.0,0.0
+XGBoost,HPO__HP:0000191,Accessory oral frenulum (HP:0000191),0.0,0.0
+XGBoost,HPO__HP:0000193,Bifid uvula (HP:0000193),0.0,0.0
+XGBoost,HPO__HP:0000199,Tongue nodules (HP:0000199),0.0,0.0
+XGBoost,HPO__HP:0000204,Cleft upper lip (HP:0000204),0.0,0.0
+XGBoost,HPO__HP:0000218,High palate (HP:0000218),0.0,0.0
+XGBoost,HPO__HP:0000219,Thin upper lip vermilion (HP:0000219),0.0,0.0
+XGBoost,HPO__HP:0000233,Thin vermilion border (HP:0000233),0.0,0.0
+XGBoost,HPO__HP:0000238,Hydrocephalus (HP:0000238),0.0,0.0
+XGBoost,HPO__HP:0000243,Trigonocephaly (HP:0000243),0.0,0.0
+XGBoost,HPO__HP:0000246,Sinusitis (HP:0000246),0.0,0.0
+XGBoost,HPO__HP:0000248,Brachycephaly (HP:0000248),0.0,0.0
+XGBoost,HPO__HP:0000256,Macrocephaly (HP:0000256),0.0,0.0
+XGBoost,HPO__HP:0000260,Wide anterior fontanel (HP:0000260),0.0,0.0
+XGBoost,HPO__HP:0000262,Turricephaly (HP:0000262),0.0,0.0
+XGBoost,HPO__HP:0000268,Dolichocephaly (HP:0000268),0.0,0.0
+XGBoost,HPO__HP:0000272,Malar flattening (HP:0000272),0.0,0.0
+XGBoost,HPO__HP:0000278,Retrognathia (HP:0000278),0.0,0.0
+XGBoost,HPO__HP:0000293,Full cheeks (HP:0000293),0.0,0.0
+XGBoost,HPO__HP:0000311,Round face (HP:0000311),0.0,0.0
+XGBoost,HPO__HP:0000316,Hypertelorism (HP:0000316),0.0,0.0
+XGBoost,HPO__HP:0000317,Facial myokymia (HP:0000317),0.0,0.0
+XGBoost,HPO__HP:0000319,Smooth philtrum (HP:0000319),0.0,0.0
+XGBoost,HPO__HP:0000337,Broad forehead (HP:0000337),0.0,0.0
+XGBoost,HPO__HP:0000340,Sloping forehead (HP:0000340),0.0,0.0
+XGBoost,HPO__HP:0000341,Narrow forehead (HP:0000341),0.0,0.0
+XGBoost,HPO__HP:0000343,Long philtrum (HP:0000343),0.0,0.0
+XGBoost,HPO__HP:0000348,High forehead (HP:0000348),0.0,0.0
+XGBoost,HPO__HP:0000358,Posteriorly rotated ears (HP:0000358),0.0,0.0
+XGBoost,HPO__HP:0000360,Tinnitus (HP:0000360),0.0,0.0
+XGBoost,HPO__HP:0000365,Hearing impairment (HP:0000365),0.0,0.0
+XGBoost,HPO__HP:0000377,Abnormal pinna morphology (HP:0000377),0.0,0.0
+XGBoost,HPO__HP:0000389,Chronic otitis media (HP:0000389),0.0,0.0
+XGBoost,HPO__HP:0000403,Recurrent otitis media (HP:0000403),0.0,0.0
+XGBoost,HPO__HP:0000405,Conductive hearing impairment (HP:0000405),0.0,0.0
+XGBoost,HPO__HP:0000411,Protruding ear (HP:0000411),0.0,0.0
+XGBoost,HPO__HP:0000414,Bulbous nose (HP:0000414),0.0,0.0
+XGBoost,HPO__HP:0000431,Wide nasal bridge (HP:0000431),0.0,0.0
+XGBoost,HPO__HP:0000448,Prominent nose (HP:0000448),0.0,0.0
+XGBoost,HPO__HP:0000455,Broad nasal tip (HP:0000455),0.0,0.0
+XGBoost,HPO__HP:0000463,Anteverted nares (HP:0000463),0.0,0.0
+XGBoost,HPO__HP:0000465,Webbed neck (HP:0000465),0.0,0.0
+XGBoost,HPO__HP:0000467,Neck muscle weakness (HP:0000467),0.0,0.0
+XGBoost,HPO__HP:0000470,Short neck (HP:0000470),0.0,0.0
+XGBoost,HPO__HP:0000473,Torticollis (HP:0000473),0.0,0.0
+XGBoost,HPO__HP:0000474,Thickened nuchal skin fold (HP:0000474),0.0,0.0
+XGBoost,HPO__HP:0000476,Cystic hygroma (HP:0000476),0.0,0.0
+XGBoost,HPO__HP:0000479,Abnormal retinal morphology (HP:0000479),0.0,0.0
+XGBoost,HPO__HP:0000483,Astigmatism (HP:0000483),0.0,0.0
+XGBoost,HPO__HP:0000486,Strabismus (HP:0000486),0.0,0.0
+XGBoost,HPO__HP:0000488,Retinopathy (HP:0000488),0.0,0.0
+XGBoost,HPO__HP:0000490,Deeply set eye (HP:0000490),0.0,0.0
+XGBoost,HPO__HP:0000494,Downslanted palpebral fissures (HP:0000494),0.0,0.0
+XGBoost,HPO__HP:0000496,Abnormality of eye movement (HP:0000496),0.0,0.0
+XGBoost,HPO__HP:0000506,Telecanthus (HP:0000506),0.0,0.0
+XGBoost,HPO__HP:0000508,Ptosis (HP:0000508),0.0,0.0
+XGBoost,HPO__HP:0000511,Vertical supranuclear gaze palsy (HP:0000511),0.0,0.0
+XGBoost,HPO__HP:0000514,Slow saccadic eye movements (HP:0000514),0.0,0.0
+XGBoost,HPO__HP:0000518,Cataract (HP:0000518),0.0,0.0
+XGBoost,HPO__HP:0000520,Proptosis (HP:0000520),0.0,0.0
+XGBoost,HPO__HP:0000524,Conjunctival telangiectasia (HP:0000524),0.0,0.0
+XGBoost,HPO__HP:0000526,Aniridia (HP:0000526),0.0,0.0
+XGBoost,HPO__HP:0000529,Progressive visual loss (HP:0000529),0.0,0.0
+XGBoost,HPO__HP:0000537,Epicanthus inversus (HP:0000537),0.0,0.0
+XGBoost,HPO__HP:0000540,Hypermetropia (HP:0000540),0.0,0.0
+XGBoost,HPO__HP:0000545,Myopia (HP:0000545),0.0,0.0
+XGBoost,HPO__HP:0000550,Undetectable electroretinogram (HP:0000550),0.0,0.0
+XGBoost,HPO__HP:0000555,Leukocoria (HP:0000555),0.0,0.0
+XGBoost,HPO__HP:0000565,Esotropia (HP:0000565),0.0,0.0
+XGBoost,HPO__HP:0000567,Chorioretinal coloboma (HP:0000567),0.0,0.0
+XGBoost,HPO__HP:0000568,Microphthalmia (HP:0000568),0.0,0.0
+XGBoost,HPO__HP:0000570,Abnormal saccadic eye movements (HP:0000570),0.0,0.0
+XGBoost,HPO__HP:0000571,Hypometric saccades (HP:0000571),0.0,0.0
+XGBoost,HPO__HP:0000572,Visual loss (HP:0000572),0.0,0.0
+XGBoost,HPO__HP:0000574,Thick eyebrow (HP:0000574),0.0,0.0
+XGBoost,HPO__HP:0000575,Scotoma (HP:0000575),0.0,0.0
+XGBoost,HPO__HP:0000582,Upslanted palpebral fissure (HP:0000582),0.0,0.0
+XGBoost,HPO__HP:0000588,Optic disc coloboma (HP:0000588),0.0,0.0
+XGBoost,HPO__HP:0000589,Coloboma (HP:0000589),0.0,0.0
+XGBoost,HPO__HP:0000597,Ophthalmoparesis (HP:0000597),0.0,0.0
+XGBoost,HPO__HP:0000602,Ophthalmoplegia (HP:0000602),0.0,0.0
+XGBoost,HPO__HP:0000603,Central scotoma (HP:0000603),0.0,0.0
+XGBoost,HPO__HP:0000605,Supranuclear gaze palsy (HP:0000605),0.0,0.0
+XGBoost,HPO__HP:0000608,Macular degeneration (HP:0000608),0.0,0.0
+XGBoost,HPO__HP:0000609,Optic nerve hypoplasia (HP:0000609),0.0,0.0
+XGBoost,HPO__HP:0000612,Iris coloboma (HP:0000612),0.0,0.0
+XGBoost,HPO__HP:0000616,Miosis (HP:0000616),0.0,0.0
+XGBoost,HPO__HP:0000617,Abnormality of ocular smooth pursuit (HP:0000617),0.0,0.0
+XGBoost,HPO__HP:0000618,Blindness (HP:0000618),0.0,0.0
+XGBoost,HPO__HP:0000623,Supranuclear ophthalmoplegia (HP:0000623),0.0,0.0
+XGBoost,HPO__HP:0000640,Gaze-evoked nystagmus (HP:0000640),0.0,0.0
+XGBoost,HPO__HP:0000641,Dysmetric saccades (HP:0000641),0.0,0.0
+XGBoost,HPO__HP:0000648,Optic atrophy (HP:0000648),0.0,0.0
+XGBoost,HPO__HP:0000651,Diplopia (HP:0000651),0.0,0.0
+XGBoost,HPO__HP:0000664,Synophrys (HP:0000664),0.0,0.0
+XGBoost,HPO__HP:0000666,Horizontal nystagmus (HP:0000666),0.0,0.0
+XGBoost,HPO__HP:0000670,Carious teeth (HP:0000670),0.0,0.0
+XGBoost,HPO__HP:0000678,Dental crowding (HP:0000678),0.0,0.0
+XGBoost,HPO__HP:0000679,Taurodontia (HP:0000679),0.0,0.0
+XGBoost,HPO__HP:0000687,Widely spaced teeth (HP:0000687),0.0,0.0
+XGBoost,HPO__HP:0000691,Microdontia (HP:0000691),0.0,0.0
+XGBoost,HPO__HP:0000695,Natal tooth (HP:0000695),0.0,0.0
+XGBoost,HPO__HP:0000716,Depression (HP:0000716),0.0,0.0
+XGBoost,HPO__HP:0000718,Aggressive behavior (HP:0000718),0.0,0.0
+XGBoost,HPO__HP:0000726,Dementia (HP:0000726),0.0,0.0
+XGBoost,HPO__HP:0000727,Frontal lobe dementia (HP:0000727),0.0,0.0
+XGBoost,HPO__HP:0000729,Autistic behavior (HP:0000729),0.0,0.0
+XGBoost,HPO__HP:0000737,Irritability (HP:0000737),0.0,0.0
+XGBoost,HPO__HP:0000738,Hallucinations (HP:0000738),0.0,0.0
+XGBoost,HPO__HP:0000739,Anxiety (HP:0000739),0.0,0.0
+XGBoost,HPO__HP:0000741,Apathy (HP:0000741),0.0,0.0
+XGBoost,HPO__HP:0000743,Frontal release signs (HP:0000743),0.0,0.0
+XGBoost,HPO__HP:0000746,Delusion (HP:0000746),0.0,0.0
+XGBoost,HPO__HP:0000750,Delayed speech and language development (HP:0000750),0.0,0.0
+XGBoost,HPO__HP:0000752,Hyperactivity (HP:0000752),0.0,0.0
+XGBoost,HPO__HP:0000757,Lack of insight (HP:0000757),0.0,0.0
+XGBoost,HPO__HP:0000762,Decreased nerve conduction velocity (HP:0000762),0.0,0.0
+XGBoost,HPO__HP:0000763,Sensory neuropathy (HP:0000763),0.0,0.0
+XGBoost,HPO__HP:0000767,Pectus excavatum (HP:0000767),0.0,0.0
+XGBoost,HPO__HP:0000768,Pectus carinatum (HP:0000768),0.0,0.0
+XGBoost,HPO__HP:0000773,Short ribs (HP:0000773),0.0,0.0
+XGBoost,HPO__HP:0000789,Infertility (HP:0000789),0.0,0.0
+XGBoost,HPO__HP:0000800,Cystic renal dysplasia (HP:0000800),0.0,0.0
+XGBoost,HPO__HP:0000805,Enuresis (HP:0000805),0.0,0.0
+XGBoost,HPO__HP:0000819,Diabetes mellitus (HP:0000819),0.0,0.0
+XGBoost,HPO__HP:0000821,Hypothyroidism (HP:0000821),0.0,0.0
+XGBoost,HPO__HP:0000835,Adrenal hypoplasia (HP:0000835),0.0,0.0
+XGBoost,HPO__HP:0000863,Central diabetes insipidus (HP:0000863),0.0,0.0
+XGBoost,HPO__HP:0000878,11 pairs of ribs (HP:0000878),0.0,0.0
+XGBoost,HPO__HP:0000888,Horizontal ribs (HP:0000888),0.0,0.0
+XGBoost,HPO__HP:0000895,Lateral clavicle hook (HP:0000895),0.0,0.0
+XGBoost,HPO__HP:0000926,Platyspondyly (HP:0000926),0.0,0.0
+XGBoost,HPO__HP:0000938,Osteopenia (HP:0000938),0.0,0.0
+XGBoost,HPO__HP:0000954,Single transverse palmar crease (HP:0000954),0.0,0.0
+XGBoost,HPO__HP:0000960,Sacral dimple (HP:0000960),0.0,0.0
+XGBoost,HPO__HP:0000961,Cyanosis (HP:0000961),0.0,0.0
+XGBoost,HPO__HP:0000962,Hyperkeratosis (HP:0000962),0.0,0.0
+XGBoost,HPO__HP:0000963,Thin skin (HP:0000963),0.0,0.0
+XGBoost,HPO__HP:0000965,Cutis marmorata (HP:0000965),0.0,0.0
+XGBoost,HPO__HP:0000969,Edema (HP:0000969),0.0,0.0
+XGBoost,HPO__HP:0000973,Cutis laxa (HP:0000973),0.0,0.0
+XGBoost,HPO__HP:0000980,Pallor (HP:0000980),0.0,0.0
+XGBoost,HPO__HP:0001019,Erythroderma (HP:0001019),0.0,0.0
+XGBoost,HPO__HP:0001085,Papilledema (HP:0001085),0.0,0.0
+XGBoost,HPO__HP:0001105,Retinal atrophy (HP:0001105),0.0,0.0
+XGBoost,HPO__HP:0001116,Macular pseudocoloboma (HP:0001116),0.0,0.0
+XGBoost,HPO__HP:0001123,Visual field defect (HP:0001123),0.0,0.0
+XGBoost,HPO__HP:0001141,Severely reduced visual acuity (HP:0001141),0.0,0.0
+XGBoost,HPO__HP:0001151,Impaired horizontal smooth pursuit (HP:0001151),0.0,0.0
+XGBoost,HPO__HP:0001152,Saccadic smooth pursuit interruptions (HP:0001152),0.0,0.0
+XGBoost,HPO__HP:0001153,Septate vagina (HP:0001153),0.0,0.0
+XGBoost,HPO__HP:0001159,Syndactyly (HP:0001159),0.0,0.0
+XGBoost,HPO__HP:0001162,Postaxial hand polydactyly (HP:0001162),0.0,0.0
+XGBoost,HPO__HP:0001169,Broad palm (HP:0001169),0.0,0.0
+XGBoost,HPO__HP:0001177,Preaxial hand polydactyly (HP:0001177),0.0,0.0
+XGBoost,HPO__HP:0001195,Single umbilical artery (HP:0001195),0.0,0.0
+XGBoost,HPO__HP:0001230,Broad metacarpals (HP:0001230),0.0,0.0
+XGBoost,HPO__HP:0001250,Seizure (HP:0001250),0.0,0.0
+XGBoost,HPO__HP:0001251,Ataxia (HP:0001251),0.0,0.0
+XGBoost,HPO__HP:0001257,Spasticity (HP:0001257),0.0,0.0
+XGBoost,HPO__HP:0001265,Hyporeflexia (HP:0001265),0.0,0.0
+XGBoost,HPO__HP:0001268,Mental deterioration (HP:0001268),0.0,0.0
+XGBoost,HPO__HP:0001271,Polyneuropathy (HP:0001271),0.0,0.0
+XGBoost,HPO__HP:0001273,Abnormal corpus callosum morphology (HP:0001273),0.0,0.0
+XGBoost,HPO__HP:0001274,Agenesis of corpus callosum (HP:0001274),0.0,0.0
+XGBoost,HPO__HP:0001276,Hypertonia (HP:0001276),0.0,0.0
+XGBoost,HPO__HP:0001283,Bulbar palsy (HP:0001283),0.0,0.0
+XGBoost,HPO__HP:0001284,Areflexia (HP:0001284),0.0,0.0
+XGBoost,HPO__HP:0001288,Gait disturbance (HP:0001288),0.0,0.0
+XGBoost,HPO__HP:0001289,Confusion (HP:0001289),0.0,0.0
+XGBoost,HPO__HP:0001290,Generalized hypotonia (HP:0001290),0.0,0.0
+XGBoost,HPO__HP:0001300,Parkinsonism (HP:0001300),0.0,0.0
+XGBoost,HPO__HP:0001305,Dandy-Walker malformation (HP:0001305),0.0,0.0
+XGBoost,HPO__HP:0001308,Tongue fasciculations (HP:0001308),0.0,0.0
+XGBoost,HPO__HP:0001310,Dysmetria (HP:0001310),0.0,0.0
+XGBoost,HPO__HP:0001315,Diminished deep tendon reflex (HP:0001315),0.0,0.0
+XGBoost,HPO__HP:0001319,Neonatal hypotonia (HP:0001319),0.0,0.0
+XGBoost,HPO__HP:0001324,Muscle weakness (HP:0001324),0.0,0.0
+XGBoost,HPO__HP:0001332,Dystonia (HP:0001332),0.0,0.0
+XGBoost,HPO__HP:0001336,Myoclonus (HP:0001336),0.0,0.0
+XGBoost,HPO__HP:0001337,Tremor (HP:0001337),0.0,0.0
+XGBoost,HPO__HP:0001341,Olfactory lobe agenesis (HP:0001341),0.0,0.0
+XGBoost,HPO__HP:0001344,Absent speech (HP:0001344),0.0,0.0
+XGBoost,HPO__HP:0001347,Hyperreflexia (HP:0001347),0.0,0.0
+XGBoost,HPO__HP:0001348,Brisk reflexes (HP:0001348),0.0,0.0
+XGBoost,HPO__HP:0001350,Slurred speech (HP:0001350),0.0,0.0
+XGBoost,HPO__HP:0001360,Holoprosencephaly (HP:0001360),0.0,0.0
+XGBoost,HPO__HP:0001363,Craniosynostosis (HP:0001363),0.0,0.0
+XGBoost,HPO__HP:0001374,Congenital hip dislocation (HP:0001374),0.0,0.0
+XGBoost,HPO__HP:0001385,Hip dysplasia (HP:0001385),0.0,0.0
+XGBoost,HPO__HP:0001395,Hepatic fibrosis (HP:0001395),0.0,0.0
+XGBoost,HPO__HP:0001396,Cholestasis (HP:0001396),0.0,0.0
+XGBoost,HPO__HP:0001407,Hepatic cysts (HP:0001407),0.0,0.0
+XGBoost,HPO__HP:0001433,Hepatosplenomegaly (HP:0001433),0.0,0.0
+XGBoost,HPO__HP:0001483,Eye poking (HP:0001483),0.0,0.0
+XGBoost,HPO__HP:0001508,Failure to thrive (HP:0001508),0.0,0.0
+XGBoost,HPO__HP:0001510,Growth delay (HP:0001510),0.0,0.0
+XGBoost,HPO__HP:0001511,Intrauterine growth retardation (HP:0001511),0.0,0.0
+XGBoost,HPO__HP:0001518,Small for gestational age (HP:0001518),0.0,0.0
+XGBoost,HPO__HP:0001520,Large for gestational age (HP:0001520),0.0,0.0
+XGBoost,HPO__HP:0001537,Umbilical hernia (HP:0001537),0.0,0.0
+XGBoost,HPO__HP:0001538,Protuberant abdomen (HP:0001538),0.0,0.0
+XGBoost,HPO__HP:0001539,Omphalocele (HP:0001539),0.0,0.0
+XGBoost,HPO__HP:0001561,Polyhydramnios (HP:0001561),0.0,0.0
+XGBoost,HPO__HP:0001583,Rotary nystagmus (HP:0001583),0.0,0.0
+XGBoost,HPO__HP:0001600,Abnormality of the larynx (HP:0001600),0.0,0.0
+XGBoost,HPO__HP:0001623,Breech presentation (HP:0001623),0.0,0.0
+XGBoost,HPO__HP:0001627,Abnormal heart morphology (HP:0001627),0.0,0.0
+XGBoost,HPO__HP:0001629,Ventricular septal defect (HP:0001629),0.0,0.0
+XGBoost,HPO__HP:0001631,Atrial septal defect (HP:0001631),0.0,0.0
+XGBoost,HPO__HP:0001636,Tetralogy of Fallot (HP:0001636),0.0,0.0
+XGBoost,HPO__HP:0001639,Hypertrophic cardiomyopathy (HP:0001639),0.0,0.0
+XGBoost,HPO__HP:0001640,Cardiomegaly (HP:0001640),0.0,0.0
+XGBoost,HPO__HP:0001642,Pulmonic stenosis (HP:0001642),0.0,0.0
+XGBoost,HPO__HP:0001643,Patent ductus arteriosus (HP:0001643),0.0,0.0
+XGBoost,HPO__HP:0001644,Dilated cardiomyopathy (HP:0001644),0.0,0.0
+XGBoost,HPO__HP:0001646,Abnormal aortic valve morphology (HP:0001646),0.0,0.0
+XGBoost,HPO__HP:0001647,Bicuspid aortic valve (HP:0001647),0.0,0.0
+XGBoost,HPO__HP:0001650,Aortic valve stenosis (HP:0001650),0.0,0.0
+XGBoost,HPO__HP:0001655,Patent foramen ovale (HP:0001655),0.0,0.0
+XGBoost,HPO__HP:0001669,Transposition of the great arteries (HP:0001669),0.0,0.0
+XGBoost,HPO__HP:0001671,Abnormal cardiac septum morphology (HP:0001671),0.0,0.0
+XGBoost,HPO__HP:0001674,Complete atrioventricular canal defect (HP:0001674),0.0,0.0
+XGBoost,HPO__HP:0001680,Coarctation of aorta (HP:0001680),0.0,0.0
+XGBoost,HPO__HP:0001682,Subvalvular aortic stenosis (HP:0001682),0.0,0.0
+XGBoost,HPO__HP:0001702,Abnormal tricuspid valve morphology (HP:0001702),0.0,0.0
+XGBoost,HPO__HP:0001718,Mitral stenosis (HP:0001718),0.0,0.0
+XGBoost,HPO__HP:0001719,Double outlet right ventricle (HP:0001719),0.0,0.0
+XGBoost,HPO__HP:0001733,Pancreatitis (HP:0001733),0.0,0.0
+XGBoost,HPO__HP:0001737,Pancreatic cysts (HP:0001737),0.0,0.0
+XGBoost,HPO__HP:0001744,Splenomegaly (HP:0001744),0.0,0.0
+XGBoost,HPO__HP:0001746,Asplenia (HP:0001746),0.0,0.0
+XGBoost,HPO__HP:0001747,Accessory spleen (HP:0001747),0.0,0.0
+XGBoost,HPO__HP:0001748,Polysplenia (HP:0001748),0.0,0.0
+XGBoost,HPO__HP:0001750,Single ventricle (HP:0001750),0.0,0.0
+XGBoost,HPO__HP:0001760,Abnormal foot morphology (HP:0001760),0.0,0.0
+XGBoost,HPO__HP:0001761,Pes cavus (HP:0001761),0.0,0.0
+XGBoost,HPO__HP:0001765,Hammertoe (HP:0001765),0.0,0.0
+XGBoost,HPO__HP:0001770,Toe syndactyly (HP:0001770),0.0,0.0
+XGBoost,HPO__HP:0001773,Short foot (HP:0001773),0.0,0.0
+XGBoost,HPO__HP:0001776,Bilateral talipes equinovarus (HP:0001776),0.0,0.0
+XGBoost,HPO__HP:0001800,Hypoplastic toenails (HP:0001800),0.0,0.0
+XGBoost,HPO__HP:0001829,Foot polydactyly (HP:0001829),0.0,0.0
+XGBoost,HPO__HP:0001831,Short toe (HP:0001831),0.0,0.0
+XGBoost,HPO__HP:0001841,Preaxial foot polydactyly (HP:0001841),0.0,0.0
+XGBoost,HPO__HP:0001852,Sandal gap (HP:0001852),0.0,0.0
+XGBoost,HPO__HP:0001883,Talipes (HP:0001883),0.0,0.0
+XGBoost,HPO__HP:0001903,Anemia (HP:0001903),0.0,0.0
+XGBoost,HPO__HP:0001919,Acute kidney injury (HP:0001919),0.0,0.0
+XGBoost,HPO__HP:0001959,Polydipsia (HP:0001959),0.0,0.0
+XGBoost,HPO__HP:0001999,Abnormal facial shape (HP:0001999),0.0,0.0
+XGBoost,HPO__HP:0002002,Deep philtrum (HP:0002002),0.0,0.0
+XGBoost,HPO__HP:0002007,Frontal bossing (HP:0002007),0.0,0.0
+XGBoost,HPO__HP:0002015,Dysphagia (HP:0002015),0.0,0.0
+XGBoost,HPO__HP:0002017,Nausea and vomiting (HP:0002017),0.0,0.0
+XGBoost,HPO__HP:0002020,Gastroesophageal reflux (HP:0002020),0.0,0.0
+XGBoost,HPO__HP:0002023,Anal atresia (HP:0002023),0.0,0.0
+XGBoost,HPO__HP:0002059,Cerebral atrophy (HP:0002059),0.0,0.0
+XGBoost,HPO__HP:0002062,Abnormal pyramidal tract morphology (HP:0002062),0.0,0.0
+XGBoost,HPO__HP:0002063,Rigidity (HP:0002063),0.0,0.0
+XGBoost,HPO__HP:0002064,Spastic gait (HP:0002064),0.0,0.0
+XGBoost,HPO__HP:0002066,Gait ataxia (HP:0002066),0.0,0.0
+XGBoost,HPO__HP:0002067,Bradykinesia (HP:0002067),0.0,0.0
+XGBoost,HPO__HP:0002069,Bilateral tonic-clonic seizure (HP:0002069),0.0,0.0
+XGBoost,HPO__HP:0002070,Limb ataxia (HP:0002070),0.0,0.0
+XGBoost,HPO__HP:0002071,Abnormality of extrapyramidal motor function (HP:0002071),0.0,0.0
+XGBoost,HPO__HP:0002072,Chorea (HP:0002072),0.0,0.0
+XGBoost,HPO__HP:0002073,Progressive cerebellar ataxia (HP:0002073),0.0,0.0
+XGBoost,HPO__HP:0002075,Dysdiadochokinesis (HP:0002075),0.0,0.0
+XGBoost,HPO__HP:0002079,Hypoplasia of the corpus callosum (HP:0002079),0.0,0.0
+XGBoost,HPO__HP:0002080,Intention tremor (HP:0002080),0.0,0.0
+XGBoost,HPO__HP:0002083,Migraine without aura (HP:0002083),0.0,0.0
+XGBoost,HPO__HP:0002084,Encephalocele (HP:0002084),0.0,0.0
+XGBoost,HPO__HP:0002089,Pulmonary hypoplasia (HP:0002089),0.0,0.0
+XGBoost,HPO__HP:0002090,Pneumonia (HP:0002090),0.0,0.0
+XGBoost,HPO__HP:0002091,Restrictive ventilatory defect (HP:0002091),0.0,0.0
+XGBoost,HPO__HP:0002098,Respiratory distress (HP:0002098),0.0,0.0
+XGBoost,HPO__HP:0002099,Asthma (HP:0002099),0.0,0.0
+XGBoost,HPO__HP:0002104,Apnea (HP:0002104),0.0,0.0
+XGBoost,HPO__HP:0002119,Ventriculomegaly (HP:0002119),0.0,0.0
+XGBoost,HPO__HP:0002120,Cerebral cortical atrophy (HP:0002120),0.0,0.0
+XGBoost,HPO__HP:0002126,Polymicrogyria (HP:0002126),0.0,0.0
+XGBoost,HPO__HP:0002132,Porencephalic cyst (HP:0002132),0.0,0.0
+XGBoost,HPO__HP:0002133,Status epilepticus (HP:0002133),0.0,0.0
+XGBoost,HPO__HP:0002136,Broad-based gait (HP:0002136),0.0,0.0
+XGBoost,HPO__HP:0002139,Arrhinencephaly (HP:0002139),0.0,0.0
+XGBoost,HPO__HP:0002141,Gait imbalance (HP:0002141),0.0,0.0
+XGBoost,HPO__HP:0002162,Low posterior hairline (HP:0002162),0.0,0.0
+XGBoost,HPO__HP:0002166,Impaired vibration sensation in the lower li… (HP:0002166),0.0,0.0
+XGBoost,HPO__HP:0002168,Scanning speech (HP:0002168),0.0,0.0
+XGBoost,HPO__HP:0002169,Clonus (HP:0002169),0.0,0.0
+XGBoost,HPO__HP:0002171,Gliosis (HP:0002171),0.0,0.0
+XGBoost,HPO__HP:0002174,Postural tremor (HP:0002174),0.0,0.0
+XGBoost,HPO__HP:0002179,Opisthotonus (HP:0002179),0.0,0.0
+XGBoost,HPO__HP:0002186,Apraxia (HP:0002186),0.0,0.0
+XGBoost,HPO__HP:0002188,Delayed CNS myelination (HP:0002188),0.0,0.0
+XGBoost,HPO__HP:0002195,Dysgenesis of the cerebellar vermis (HP:0002195),0.0,0.0
+XGBoost,HPO__HP:0002198,Dilated fourth ventricle (HP:0002198),0.0,0.0
+XGBoost,HPO__HP:0002205,Recurrent respiratory infections (HP:0002205),0.0,0.0
+XGBoost,HPO__HP:0002209,Sparse scalp hair (HP:0002209),0.0,0.0
+XGBoost,HPO__HP:0002236,Frontal upsweep of hair (HP:0002236),0.0,0.0
+XGBoost,HPO__HP:0002240,Hepatomegaly (HP:0002240),0.0,0.0
+XGBoost,HPO__HP:0002247,Duodenal atresia (HP:0002247),0.0,0.0
+XGBoost,HPO__HP:0002257,Chronic rhinitis (HP:0002257),0.0,0.0
+XGBoost,HPO__HP:0002280,Enlarged cisterna magna (HP:0002280),0.0,0.0
+XGBoost,HPO__HP:0002282,Gray matter heterotopia (HP:0002282),0.0,0.0
+XGBoost,HPO__HP:0002286,Fair hair (HP:0002286),0.0,0.0
+XGBoost,HPO__HP:0002300,Mutism (HP:0002300),0.0,0.0
+XGBoost,HPO__HP:0002304,Akinesia (HP:0002304),0.0,0.0
+XGBoost,HPO__HP:0002307,Drooling (HP:0002307),0.0,0.0
+XGBoost,HPO__HP:0002308,Chiari malformation (HP:0002308),0.0,0.0
+XGBoost,HPO__HP:0002310,Orofacial dyskinesia (HP:0002310),0.0,0.0
+XGBoost,HPO__HP:0002311,Incoordination (HP:0002311),0.0,0.0
+XGBoost,HPO__HP:0002313,Spastic paraparesis (HP:0002313),0.0,0.0
+XGBoost,HPO__HP:0002317,Unsteady gait (HP:0002317),0.0,0.0
+XGBoost,HPO__HP:0002321,Vertigo (HP:0002321),0.0,0.0
+XGBoost,HPO__HP:0002323,Anencephaly (HP:0002323),0.0,0.0
+XGBoost,HPO__HP:0002335,Agenesis of cerebellar vermis (HP:0002335),0.0,0.0
+XGBoost,HPO__HP:0002342,Moderate intellectual disability (HP:0002342),0.0,0.0
+XGBoost,HPO__HP:0002345,Action tremor (HP:0002345),0.0,0.0
+XGBoost,HPO__HP:0002346,Head tremor (HP:0002346),0.0,0.0
+XGBoost,HPO__HP:0002352,Leukoencephalopathy (HP:0002352),0.0,0.0
+XGBoost,HPO__HP:0002354,Memory impairment (HP:0002354),0.0,0.0
+XGBoost,HPO__HP:0002359,Frequent falls (HP:0002359),0.0,0.0
+XGBoost,HPO__HP:0002365,Hypoplasia of the brainstem (HP:0002365),0.0,0.0
+XGBoost,HPO__HP:0002376,Developmental regression (HP:0002376),0.0,0.0
+XGBoost,HPO__HP:0002380,Fasciculations (HP:0002380),0.0,0.0
+XGBoost,HPO__HP:0002384,Focal impaired awareness seizure (HP:0002384),0.0,0.0
+XGBoost,HPO__HP:0002395,Lower limb hyperreflexia (HP:0002395),0.0,0.0
+XGBoost,HPO__HP:0002396,Cogwheel rigidity (HP:0002396),0.0,0.0
+XGBoost,HPO__HP:0002403,Positive Romberg sign (HP:0002403),0.0,0.0
+XGBoost,HPO__HP:0002404,Thickened superior cerebellar peduncle (HP:0002404),0.0,0.0
+XGBoost,HPO__HP:0002406,Limb dysmetria (HP:0002406),0.0,0.0
+XGBoost,HPO__HP:0002410,Aqueductal stenosis (HP:0002410),0.0,0.0
+XGBoost,HPO__HP:0002411,Myokymia (HP:0002411),0.0,0.0
+XGBoost,HPO__HP:0002421,Poor head control (HP:0002421),0.0,0.0
+XGBoost,HPO__HP:0002423,Long-tract sign (HP:0002423),0.0,0.0
+XGBoost,HPO__HP:0002435,Meningocele (HP:0002435),0.0,0.0
+XGBoost,HPO__HP:0002436,Occipital meningocele (HP:0002436),0.0,0.0
+XGBoost,HPO__HP:0002442,Dyscalculia (HP:0002442),0.0,0.0
+XGBoost,HPO__HP:0002444,Hypothalamic hamartoma (HP:0002444),0.0,0.0
+XGBoost,HPO__HP:0002460,Distal muscle weakness (HP:0002460),0.0,0.0
+XGBoost,HPO__HP:0002465,Poor speech (HP:0002465),0.0,0.0
+XGBoost,HPO__HP:0002470,Nonprogressive cerebellar ataxia (HP:0002470),0.0,0.0
+XGBoost,HPO__HP:0002475,Myelomeningocele (HP:0002475),0.0,0.0
+XGBoost,HPO__HP:0002493,Upper motor neuron dysfunction (HP:0002493),0.0,0.0
+XGBoost,HPO__HP:0002495,Impaired vibratory sensation (HP:0002495),0.0,0.0
+XGBoost,HPO__HP:0002497,Spastic ataxia (HP:0002497),0.0,0.0
+XGBoost,HPO__HP:0002503,Spinocerebellar tract degeneration (HP:0002503),0.0,0.0
+XGBoost,HPO__HP:0002505,Loss of ambulation (HP:0002505),0.0,0.0
+XGBoost,HPO__HP:0002506,Diffuse cerebral atrophy (HP:0002506),0.0,0.0
+XGBoost,HPO__HP:0002507,Semilobar holoprosencephaly (HP:0002507),0.0,0.0
+XGBoost,HPO__HP:0002508,Brainstem dysplasia (HP:0002508),0.0,0.0
+XGBoost,HPO__HP:0002516,Increased intracranial pressure (HP:0002516),0.0,0.0
+XGBoost,HPO__HP:0002529,Neuronal loss in central nervous system (HP:0002529),0.0,0.0
+XGBoost,HPO__HP:0002530,Axial dystonia (HP:0002530),0.0,0.0
+XGBoost,HPO__HP:0002540,Inability to walk (HP:0002540),0.0,0.0
+XGBoost,HPO__HP:0002542,Olivopontocerebellar atrophy (HP:0002542),0.0,0.0
+XGBoost,HPO__HP:0002553,Highly arched eyebrow (HP:0002553),0.0,0.0
+XGBoost,HPO__HP:0002566,Intestinal malrotation (HP:0002566),0.0,0.0
+XGBoost,HPO__HP:0002591,Polyphagia (HP:0002591),0.0,0.0
+XGBoost,HPO__HP:0002612,Congenital hepatic fibrosis (HP:0002612),0.0,0.0
+XGBoost,HPO__HP:0002617,Vascular dilatation (HP:0002617),0.0,0.0
+XGBoost,HPO__HP:0002643,Neonatal respiratory distress (HP:0002643),0.0,0.0
+XGBoost,HPO__HP:0002650,Scoliosis (HP:0002650),0.0,0.0
+XGBoost,HPO__HP:0002751,Kyphoscoliosis (HP:0002751),0.0,0.0
+XGBoost,HPO__HP:0002789,Tachypnea (HP:0002789),0.0,0.0
+XGBoost,HPO__HP:0002790,Neonatal breathing dysregulation (HP:0002790),0.0,0.0
+XGBoost,HPO__HP:0002812,Coxa vara (HP:0002812),0.0,0.0
+XGBoost,HPO__HP:0002839,Urinary bladder sphincter dysfunction (HP:0002839),0.0,0.0
+XGBoost,HPO__HP:0002871,Central apnea (HP:0002871),0.0,0.0
+XGBoost,HPO__HP:0002876,Episodic tachypnea (HP:0002876),0.0,0.0
+XGBoost,HPO__HP:0002883,Hyperventilation (HP:0002883),0.0,0.0
+XGBoost,HPO__HP:0002910,Elevated circulating hepatic transaminase co… (HP:0002910),0.0,0.0
+XGBoost,HPO__HP:0002936,Distal sensory impairment (HP:0002936),0.0,0.0
+XGBoost,HPO__HP:0002938,Lumbar hyperlordosis (HP:0002938),0.0,0.0
+XGBoost,HPO__HP:0002974,Radioulnar synostosis (HP:0002974),0.0,0.0
+XGBoost,HPO__HP:0003016,Metaphyseal widening (HP:0003016),0.0,0.0
+XGBoost,HPO__HP:0003025,Metaphyseal irregularity (HP:0003025),0.0,0.0
+XGBoost,HPO__HP:0003027,Mesomelia (HP:0003027),0.0,0.0
+XGBoost,HPO__HP:0003038,Fibular hypoplasia (HP:0003038),0.0,0.0
+XGBoost,HPO__HP:0003073,Hypoalbuminemia (HP:0003073),0.0,0.0
+XGBoost,HPO__HP:0003090,Hypoplasia of the capital femoral epiphysis (HP:0003090),0.0,0.0
+XGBoost,HPO__HP:0003124,Hypercholesterolemia (HP:0003124),0.0,0.0
+XGBoost,HPO__HP:0003173,Hypoplastic pubic bone (HP:0003173),0.0,0.0
+XGBoost,HPO__HP:0003180,Flat acetabular roof (HP:0003180),0.0,0.0
+XGBoost,HPO__HP:0003196,Short nose (HP:0003196),0.0,0.0
+XGBoost,HPO__HP:0003200,Ragged-red muscle fibers (HP:0003200),0.0,0.0
+XGBoost,HPO__HP:0003202,Skeletal muscle atrophy (HP:0003202),0.0,0.0
+XGBoost,HPO__HP:0003236,Elevated circulating creatine kinase activity (HP:0003236),0.0,0.0
+XGBoost,HPO__HP:0003305,Block vertebrae (HP:0003305),0.0,0.0
+XGBoost,HPO__HP:0003363,Abdominal situs inversus (HP:0003363),0.0,0.0
+XGBoost,HPO__HP:0003375,Narrow greater sciatic notch (HP:0003375),0.0,0.0
+XGBoost,HPO__HP:0003376,Steppage gait (HP:0003376),0.0,0.0
+XGBoost,HPO__HP:0003380,Decreased number of peripheral myelinated ne… (HP:0003380),0.0,0.0
+XGBoost,HPO__HP:0003390,Sensory axonal neuropathy (HP:0003390),0.0,0.0
+XGBoost,HPO__HP:0003391,Gowers sign (HP:0003391),0.0,0.0
+XGBoost,HPO__HP:0003394,Muscle spasm (HP:0003394),0.0,0.0
+XGBoost,HPO__HP:0003401,Paresthesia (HP:0003401),0.0,0.0
+XGBoost,HPO__HP:0003431,Decreased motor nerve conduction velocity (HP:0003431),0.0,0.0
+XGBoost,HPO__HP:0003445,EMG: neuropathic changes (HP:0003445),0.0,0.0
+XGBoost,HPO__HP:0003448,Decreased sensory nerve conduction velocity (HP:0003448),0.0,0.0
+XGBoost,HPO__HP:0003474,Somatic sensory dysfunction (HP:0003474),0.0,0.0
+XGBoost,HPO__HP:0003477,Peripheral axonal neuropathy (HP:0003477),0.0,0.0
+XGBoost,HPO__HP:0003487,Babinski sign (HP:0003487),0.0,0.0
+XGBoost,HPO__HP:0003546,Exercise intolerance (HP:0003546),0.0,0.0
+XGBoost,HPO__HP:0003690,Limb muscle weakness (HP:0003690),0.0,0.0
+XGBoost,HPO__HP:0003693,Distal amyotrophy (HP:0003693),0.0,0.0
+XGBoost,HPO__HP:0003698,Difficulty standing (HP:0003698),0.0,0.0
+XGBoost,HPO__HP:0003701,Proximal muscle weakness (HP:0003701),0.0,0.0
+XGBoost,HPO__HP:0003762,Uterus didelphys (HP:0003762),0.0,0.0
+XGBoost,HPO__HP:0003763,Bruxism (HP:0003763),0.0,0.0
+XGBoost,HPO__HP:0004209,Clinodactyly of the 5th finger (HP:0004209),0.0,0.0
+XGBoost,HPO__HP:0004325,Decreased body weight (HP:0004325),0.0,0.0
+XGBoost,HPO__HP:0004326,Cachexia (HP:0004326),0.0,0.0
+XGBoost,HPO__HP:0004373,Focal dystonia (HP:0004373),0.0,0.0
+XGBoost,HPO__HP:0004383,Hypoplastic left ventricle (HP:0004383),0.0,0.0
+XGBoost,HPO__HP:0004396,Poor appetite (HP:0004396),0.0,0.0
+XGBoost,HPO__HP:0004409,Hyposmia (HP:0004409),0.0,0.0
+XGBoost,HPO__HP:0004425,Flat forehead (HP:0004425),0.0,0.0
+XGBoost,HPO__HP:0004428,Elfin facies (HP:0004428),0.0,0.0
+XGBoost,HPO__HP:0004442,Sagittal craniosynostosis (HP:0004442),0.0,0.0
+XGBoost,HPO__HP:0004469,Chronic bronchitis (HP:0004469),0.0,0.0
+XGBoost,HPO__HP:0004491,Large posterior fontanelle (HP:0004491),0.0,0.0
+XGBoost,HPO__HP:0004639,Elevated amniotic fluid alpha-fetoprotein co… (HP:0004639),0.0,0.0
+XGBoost,HPO__HP:0004691,2-3 toe syndactyly (HP:0004691),0.0,0.0
+XGBoost,HPO__HP:0004719,Hyperechogenic kidneys (HP:0004719),0.0,0.0
+XGBoost,HPO__HP:0004737,Global glomerulosclerosis (HP:0004737),0.0,0.0
+XGBoost,HPO__HP:0004762,Hypoplasia of right ventricle (HP:0004762),0.0,0.0
+XGBoost,HPO__HP:0004935,Pulmonary artery atresia (HP:0004935),0.0,0.0
+XGBoost,HPO__HP:0004971,Pulmonary artery hypoplasia (HP:0004971),0.0,0.0
+XGBoost,HPO__HP:0005160,Total anomalous pulmonary venous return (HP:0005160),0.0,0.0
+XGBoost,HPO__HP:0005257,Thoracic hypoplasia (HP:0005257),0.0,0.0
+XGBoost,HPO__HP:0005285,Absent nasal bridge (HP:0005285),0.0,0.0
+XGBoost,HPO__HP:0005343,Hypoplasia of the bladder (HP:0005343),0.0,0.0
+XGBoost,HPO__HP:0005474,Decreased calvarial ossification (HP:0005474),0.0,0.0
+XGBoost,HPO__HP:0005484,Secondary microcephaly (HP:0005484),0.0,0.0
+XGBoost,HPO__HP:0005487,Prominent metopic ridge (HP:0005487),0.0,0.0
+XGBoost,HPO__HP:0005565,Reduced renal corticomedullary differentiati… (HP:0005565),0.0,0.0
+XGBoost,HPO__HP:0005576,Tubulointerstitial fibrosis (HP:0005576),0.0,0.0
+XGBoost,HPO__HP:0005736,Short tibia (HP:0005736),0.0,0.0
+XGBoost,HPO__HP:0005819,Short middle phalanx of finger (HP:0005819),0.0,0.0
+XGBoost,HPO__HP:0005912,Biliary atresia (HP:0005912),0.0,0.0
+XGBoost,HPO__HP:0005938,Abnormal respiratory motile cilium morphology (HP:0005938),0.0,0.0
+XGBoost,HPO__HP:0006145,Central Y-shaped metacarpal (HP:0006145),0.0,0.0
+XGBoost,HPO__HP:0006159,Mesoaxial hand polydactyly (HP:0006159),0.0,0.0
+XGBoost,HPO__HP:0006254,Elevated circulating alpha-fetoprotein conce… (HP:0006254),0.0,0.0
+XGBoost,HPO__HP:0006267,Large placenta (HP:0006267),0.0,0.0
+XGBoost,HPO__HP:0006315,Solitary median maxillary central incisor (HP:0006315),0.0,0.0
+XGBoost,HPO__HP:0006487,Bowing of the long bones (HP:0006487),0.0,0.0
+XGBoost,HPO__HP:0006510,Chronic pulmonary obstruction (HP:0006510),0.0,0.0
+XGBoost,HPO__HP:0006532,Recurrent pneumonia (HP:0006532),0.0,0.0
+XGBoost,HPO__HP:0006563,Malformation of the hepatic ductal plate (HP:0006563),0.0,0.0
+XGBoost,HPO__HP:0006610,Wide intermamillary distance (HP:0006610),0.0,0.0
+XGBoost,HPO__HP:0006695,Atrioventricular canal defect (HP:0006695),0.0,0.0
+XGBoost,HPO__HP:0006817,Aplasia/Hypoplasia of the cerebellar vermis (HP:0006817),0.0,0.0
+XGBoost,HPO__HP:0006855,Cerebellar vermis atrophy (HP:0006855),0.0,0.0
+XGBoost,HPO__HP:0006858,Impaired distal proprioception (HP:0006858),0.0,0.0
+XGBoost,HPO__HP:0006870,Lobar holoprosencephaly (HP:0006870),0.0,0.0
+XGBoost,HPO__HP:0006872,Cerebral hypoplasia (HP:0006872),0.0,0.0
+XGBoost,HPO__HP:0006879,Pontocerebellar atrophy (HP:0006879),0.0,0.0
+XGBoost,HPO__HP:0006886,Impaired distal vibration sensation (HP:0006886),0.0,0.0
+XGBoost,HPO__HP:0006889,Borderline intellectual disability (HP:0006889),0.0,0.0
+XGBoost,HPO__HP:0006895,Lower limb hypertonia (HP:0006895),0.0,0.0
+XGBoost,HPO__HP:0006937,Impaired distal tactile sensation (HP:0006937),0.0,0.0
+XGBoost,HPO__HP:0006938,Impaired vibration sensation at ankles (HP:0006938),0.0,0.0
+XGBoost,HPO__HP:0006988,Alobar holoprosencephaly (HP:0006988),0.0,0.0
+XGBoost,HPO__HP:0007000,Morning myoclonic jerks (HP:0007000),0.0,0.0
+XGBoost,HPO__HP:0007001,Loss of Purkinje cells in the cerebellar ver… (HP:0007001),0.0,0.0
+XGBoost,HPO__HP:0007006,Dorsal column degeneration (HP:0007006),0.0,0.0
+XGBoost,HPO__HP:0007018,Attention deficit hyperactivity disorder (HP:0007018),0.0,0.0
+XGBoost,HPO__HP:0007024,Pseudobulbar paralysis (HP:0007024),0.0,0.0
+XGBoost,HPO__HP:0007078,Decreased amplitude of sensory action potent… (HP:0007078),0.0,0.0
+XGBoost,HPO__HP:0007141,Sensorimotor neuropathy (HP:0007141),0.0,0.0
+XGBoost,HPO__HP:0007240,Progressive gait ataxia (HP:0007240),0.0,0.0
+XGBoost,HPO__HP:0007256,Abnormal pyramidal sign (HP:0007256),0.0,0.0
+XGBoost,HPO__HP:0007263,Spinocerebellar atrophy (HP:0007263),0.0,0.0
+XGBoost,HPO__HP:0007267,Chronic axonal neuropathy (HP:0007267),0.0,0.0
+XGBoost,HPO__HP:0007286,Horizontal jerk nystagmus (HP:0007286),0.0,0.0
+XGBoost,HPO__HP:0007289,Limb fasciculations (HP:0007289),0.0,0.0
+XGBoost,HPO__HP:0007305,CNS demyelination (HP:0007305),0.0,0.0
+XGBoost,HPO__HP:0007328,Impaired pain sensation (HP:0007328),0.0,0.0
+XGBoost,HPO__HP:0007338,Hypermetric saccades (HP:0007338),0.0,0.0
+XGBoost,HPO__HP:0007340,Lower limb muscle weakness (HP:0007340),0.0,0.0
+XGBoost,HPO__HP:0007366,Atrophy/Degeneration affecting the brainstem (HP:0007366),0.0,0.0
+XGBoost,HPO__HP:0007369,Atrophy/Degeneration affecting the cerebrum (HP:0007369),0.0,0.0
+XGBoost,HPO__HP:0007401,Macular atrophy (HP:0007401),0.0,0.0
+XGBoost,HPO__HP:0007641,Dyschromatopsia (HP:0007641),0.0,0.0
+XGBoost,HPO__HP:0007668,Impaired pursuit initiation and maintenance (HP:0007668),0.0,0.0
+XGBoost,HPO__HP:0007670,Abnormal vestibulo-ocular reflex (HP:0007670),0.0,0.0
+XGBoost,HPO__HP:0007675,Progressive night blindness (HP:0007675),0.0,0.0
+XGBoost,HPO__HP:0007676,Hypoplasia of the iris (HP:0007676),0.0,0.0
+XGBoost,HPO__HP:0007688,Undetectable light- and dark-adapted electro… (HP:0007688),0.0,0.0
+XGBoost,HPO__HP:0007703,Abnormal retinal pigmentation (HP:0007703),0.0,0.0
+XGBoost,HPO__HP:0007754,Macular dystrophy (HP:0007754),0.0,0.0
+XGBoost,HPO__HP:0007772,Impaired smooth pursuit (HP:0007772),0.0,0.0
+XGBoost,HPO__HP:0007787,Posterior subcapsular cataract (HP:0007787),0.0,0.0
+XGBoost,HPO__HP:0007792,Microsaccadic pursuit (HP:0007792),0.0,0.0
+XGBoost,HPO__HP:0007814,Retinal pigment epithelial mottling (HP:0007814),0.0,0.0
+XGBoost,HPO__HP:0007859,Congenital horizontal nystagmus (HP:0007859),0.0,0.0
+XGBoost,HPO__HP:0007875,Congenital blindness (HP:0007875),0.0,0.0
+XGBoost,HPO__HP:0007885,Slowed horizontal saccades (HP:0007885),0.0,0.0
+XGBoost,HPO__HP:0007944,Intermittent microsaccadic pursuits (HP:0007944),0.0,0.0
+XGBoost,HPO__HP:0007979,Gaze-evoked horizontal nystagmus (HP:0007979),0.0,0.0
+XGBoost,HPO__HP:0007988,Macular hypopigmentation (HP:0007988),0.0,0.0
+XGBoost,HPO__HP:0007994,Peripheral visual field loss (HP:0007994),0.0,0.0
+XGBoost,HPO__HP:0008001,Foveal hyperpigmentation (HP:0008001),0.0,0.0
+XGBoost,HPO__HP:0008002,Abnormal macular pigmentation (HP:0008002),0.0,0.0
+XGBoost,HPO__HP:0008003,Jerky ocular pursuit movements (HP:0008003),0.0,0.0
+XGBoost,HPO__HP:0008081,Pes valgus (HP:0008081),0.0,0.0
+XGBoost,HPO__HP:0008278,Cerebellar cortical atrophy (HP:0008278),0.0,0.0
+XGBoost,HPO__HP:0008323,Abnormal light- and dark-adapted electroreti… (HP:0008323),0.0,0.0
+XGBoost,HPO__HP:0008428,Vertebral clefting (HP:0008428),0.0,0.0
+XGBoost,HPO__HP:0008551,Microtia (HP:0008551),0.0,0.0
+XGBoost,HPO__HP:0008689,Bilateral cryptorchidism (HP:0008689),0.0,0.0
+XGBoost,HPO__HP:0008749,Laryngeal hypoplasia (HP:0008749),0.0,0.0
+XGBoost,HPO__HP:0008935,Generalized neonatal hypotonia (HP:0008935),0.0,0.0
+XGBoost,HPO__HP:0008936,Axial hypotonia (HP:0008936),0.0,0.0
+XGBoost,HPO__HP:0009027,Foot dorsiflexor weakness (HP:0009027),0.0,0.0
+XGBoost,HPO__HP:0009049,Peroneal muscle atrophy (HP:0009049),0.0,0.0
+XGBoost,HPO__HP:0009099,Median cleft palate (HP:0009099),0.0,0.0
+XGBoost,HPO__HP:0009162,Absent middle phalanx of 5th finger (HP:0009162),0.0,0.0
+XGBoost,HPO__HP:0009466,Radial deviation of finger (HP:0009466),0.0,0.0
+XGBoost,HPO__HP:0009487,Ulnar deviation of the hand (HP:0009487),0.0,0.0
+XGBoost,HPO__HP:0009576,Absent middle phalanx of 2nd finger (HP:0009576),0.0,0.0
+XGBoost,HPO__HP:0009803,Short phalanx of finger (HP:0009803),0.0,0.0
+XGBoost,HPO__HP:0009826,Limb undergrowth (HP:0009826),0.0,0.0
+XGBoost,HPO__HP:0009830,Peripheral neuropathy (HP:0009830),0.0,0.0
+XGBoost,HPO__HP:0009878,Cerebellar ataxia associated with quadrupeda… (HP:0009878),0.0,0.0
+XGBoost,HPO__HP:0009882,Short distal phalanx of finger (HP:0009882),0.0,0.0
+XGBoost,HPO__HP:0009914,Cyclopia (HP:0009914),0.0,0.0
+XGBoost,HPO__HP:0009931,Enlarged naris (HP:0009931),0.0,0.0
+XGBoost,HPO__HP:0009932,Single naris (HP:0009932),0.0,0.0
+XGBoost,HPO__HP:0010049,Short metacarpal (HP:0010049),0.0,0.0
+XGBoost,HPO__HP:0010230,Cone-shaped epiphyses of the phalanges of th… (HP:0010230),0.0,0.0
+XGBoost,HPO__HP:0010305,Absence of the sacrum (HP:0010305),0.0,0.0
+XGBoost,HPO__HP:0010306,Short thorax (HP:0010306),0.0,0.0
+XGBoost,HPO__HP:0010442,Polydactyly (HP:0010442),0.0,0.0
+XGBoost,HPO__HP:0010526,Dysgraphia (HP:0010526),0.0,0.0
+XGBoost,HPO__HP:0010529,Echolalia (HP:0010529),0.0,0.0
+XGBoost,HPO__HP:0010543,Opsoclonus (HP:0010543),0.0,0.0
+XGBoost,HPO__HP:0010545,Downbeat nystagmus (HP:0010545),0.0,0.0
+XGBoost,HPO__HP:0010702,Increased circulating immunoglobulin concent… (HP:0010702),0.0,0.0
+XGBoost,HPO__HP:0010743,Short metatarsal (HP:0010743),0.0,0.0
+XGBoost,HPO__HP:0010831,Impaired proprioception (HP:0010831),0.0,0.0
+XGBoost,HPO__HP:0010862,Delayed fine motor development (HP:0010862),0.0,0.0
+XGBoost,HPO__HP:0010864,Severe intellectual disability (HP:0010864),0.0,0.0
+XGBoost,HPO__HP:0010946,Dilatation of the renal pelvis (HP:0010946),0.0,0.0
+XGBoost,HPO__HP:0011094,Increased overbite (HP:0011094),0.0,0.0
+XGBoost,HPO__HP:0011108,Recurrent sinusitis (HP:0011108),0.0,0.0
+XGBoost,HPO__HP:0011109,Chronic sinusitis (HP:0011109),0.0,0.0
+XGBoost,HPO__HP:0011220,Prominent forehead (HP:0011220),0.0,0.0
+XGBoost,HPO__HP:0011330,Metopic synostosis (HP:0011330),0.0,0.0
+XGBoost,HPO__HP:0011340,Incomplete cleft of the upper lip (HP:0011340),0.0,0.0
+XGBoost,HPO__HP:0011402,Demyelinating sensory neuropathy (HP:0011402),0.0,0.0
+XGBoost,HPO__HP:0011448,Ankle clonus (HP:0011448),0.0,0.0
+XGBoost,HPO__HP:0011467,Absent gallbladder (HP:0011467),0.0,0.0
+XGBoost,HPO__HP:0011504,Bull's eye maculopathy (HP:0011504),0.0,0.0
+XGBoost,HPO__HP:0011505,Cystoid macular edema (HP:0011505),0.0,0.0
+XGBoost,HPO__HP:0011536,Right atrial isomerism (HP:0011536),0.0,0.0
+XGBoost,HPO__HP:0011560,Mitral atresia (HP:0011560),0.0,0.0
+XGBoost,HPO__HP:0011565,Common atrium (HP:0011565),0.0,0.0
+XGBoost,HPO__HP:0011611,Interrupted aortic arch (HP:0011611),0.0,0.0
+XGBoost,HPO__HP:0011670,Left superior vena cava draining to coronary… (HP:0011670),0.0,0.0
+XGBoost,HPO__HP:0011671,Interrupted inferior vena cava with azygous … (HP:0011671),0.0,0.0
+XGBoost,HPO__HP:0011800,Midface retrusion (HP:0011800),0.0,0.0
+XGBoost,HPO__HP:0011802,Hamartoma of tongue (HP:0011802),0.0,0.0
+XGBoost,HPO__HP:0011861,Bilateral trilobed lung (HP:0011861),0.0,0.0
+XGBoost,HPO__HP:0011922,Abnormal activity of mitochondrial respirato… (HP:0011922),0.0,0.0
+XGBoost,HPO__HP:0011933,Elongated superior cerebellar peduncle (HP:0011933),0.0,0.0
+XGBoost,HPO__HP:0011939,3-4 finger cutaneous syndactyly (HP:0011939),0.0,0.0
+XGBoost,HPO__HP:0011999,Paranoia (HP:0011999),0.0,0.0
+XGBoost,HPO__HP:0012020,Right aortic arch (HP:0012020),0.0,0.0
+XGBoost,HPO__HP:0012047,Hemeralopia (HP:0012047),0.0,0.0
+XGBoost,HPO__HP:0012207,Reduced sperm motility (HP:0012207),0.0,0.0
+XGBoost,HPO__HP:0012208,Immotile sperm (HP:0012208),0.0,0.0
+XGBoost,HPO__HP:0012210,Abnormal renal morphology (HP:0012210),0.0,0.0
+XGBoost,HPO__HP:0012256,Absent outer dynein arms (HP:0012256),0.0,0.0
+XGBoost,HPO__HP:0012260,Abnormal central microtubular pair morpholog… (HP:0012260),0.0,0.0
+XGBoost,HPO__HP:0012262,Abnormal ciliary motility (HP:0012262),0.0,0.0
+XGBoost,HPO__HP:0012263,Immotile cilia (HP:0012263),0.0,0.0
+XGBoost,HPO__HP:0012304,Hypoplastic aortic arch (HP:0012304),0.0,0.0
+XGBoost,HPO__HP:0012368,Flat face (HP:0012368),0.0,0.0
+XGBoost,HPO__HP:0012384,Rhinitis (HP:0012384),0.0,0.0
+XGBoost,HPO__HP:0012385,Camptodactyly (HP:0012385),0.0,0.0
+XGBoost,HPO__HP:0012426,Optic disc drusen (HP:0012426),0.0,0.0
+XGBoost,HPO__HP:0012428,Prominent calcaneus (HP:0012428),0.0,0.0
+XGBoost,HPO__HP:0012471,Thick vermilion border (HP:0012471),0.0,0.0
+XGBoost,HPO__HP:0012473,Tongue atrophy (HP:0012473),0.0,0.0
+XGBoost,HPO__HP:0012514,Lower limb pain (HP:0012514),0.0,0.0
+XGBoost,HPO__HP:0012622,Chronic kidney disease (HP:0012622),0.0,0.0
+XGBoost,HPO__HP:0012745,Short palpebral fissure (HP:0012745),0.0,0.0
+XGBoost,HPO__HP:0012758,Neurodevelopmental delay (HP:0012758),0.0,0.0
+XGBoost,HPO__HP:0012806,Proboscis (HP:0012806),0.0,0.0
+XGBoost,HPO__HP:0012841,Retinal vascular tortuosity (HP:0012841),0.0,0.0
+XGBoost,HPO__HP:0012890,Posteriorly placed anus (HP:0012890),0.0,0.0
+XGBoost,HPO__HP:0012896,Abnormal motor evoked potentials (HP:0012896),0.0,0.0
+XGBoost,HPO__HP:0020045,Esodeviation (HP:0020045),0.0,0.0
+XGBoost,HPO__HP:0020049,Exodeviation (HP:0020049),0.0,0.0
+XGBoost,HPO__HP:0020185,Superior cerebellar dysplasia (HP:0020185),0.0,0.0
+XGBoost,HPO__HP:0025147,Beaten bronze macular sheen (HP:0025147),0.0,0.0
+XGBoost,HPO__HP:0025158,Hyperautofluorescent retinal lesion (HP:0025158),0.0,0.0
+XGBoost,HPO__HP:0025335,Delayed ability to stand (HP:0025335),0.0,0.0
+XGBoost,HPO__HP:0025336,Delayed ability to sit (HP:0025336),0.0,0.0
+XGBoost,HPO__HP:0030084,Clinodactyly (HP:0030084),0.0,0.0
+XGBoost,HPO__HP:0030147,Truncal titubation (HP:0030147),0.0,0.0
+XGBoost,HPO__HP:0030151,Cholangitis (HP:0030151),0.0,0.0
+XGBoost,HPO__HP:0030177,Abnormality of peripheral nervous system ele… (HP:0030177),0.0,0.0
+XGBoost,HPO__HP:0030211,Slow pupillary light response (HP:0030211),0.0,0.0
+XGBoost,HPO__HP:0030466,Abnormal full-field electroretinogram (HP:0030466),0.0,0.0
+XGBoost,HPO__HP:0030505,Nummular pigmentation of the retina (HP:0030505),0.0,0.0
+XGBoost,HPO__HP:0030529,Ring scotoma (HP:0030529),0.0,0.0
+XGBoost,HPO__HP:0030631,Hyperautofluorescent macular lesion (HP:0030631),0.0,0.0
+XGBoost,HPO__HP:0030672,Asteroid hyalosis (HP:0030672),0.0,0.0
+XGBoost,HPO__HP:0030799,Scaphocephaly (HP:0030799),0.0,0.0
+XGBoost,HPO__HP:0030853,Heterotaxy (HP:0030853),0.0,0.0
+XGBoost,HPO__HP:0030902,Palmomental reflex (HP:0030902),0.0,0.0
+XGBoost,HPO__HP:0031166,Eyelid myokymia (HP:0031166),0.0,0.0
+XGBoost,HPO__HP:0031245,Productive cough (HP:0031245),0.0,0.0
+XGBoost,HPO__HP:0031348,Dextrotransposition of the great arteries (HP:0031348),0.0,0.0
+XGBoost,HPO__HP:0031491,Continuous spike and waves during slow sleep (HP:0031491),0.0,0.0
+XGBoost,HPO__HP:0031565,Abdominal situs ambiguus (HP:0031565),0.0,0.0
+XGBoost,HPO__HP:0031624,Moderate myopia (HP:0031624),0.0,0.0
+XGBoost,HPO__HP:0031629,Impaired tandem gait (HP:0031629),0.0,0.0
+XGBoost,HPO__HP:0031936,Delayed ability to walk (HP:0031936),0.0,0.0
+XGBoost,HPO__HP:0032078,Angel-shaped phalanx (HP:0032078),0.0,0.0
+XGBoost,HPO__HP:0032285,Ultra-low vision with retained light project… (HP:0032285),0.0,0.0
+XGBoost,HPO__HP:0032341,Reduced forced vital capacity (HP:0032341),0.0,0.0
+XGBoost,HPO__HP:0032342,Reduced forced expiratory volume in one seco… (HP:0032342),0.0,0.0
+XGBoost,HPO__HP:0032948,Renal interstitial fibrosis (HP:0032948),0.0,0.0
+XGBoost,HPO__HP:0032988,Persistent head lag (HP:0032988),0.0,0.0
+XGBoost,HPO__HP:0033036,Decreased nasal nitric oxide (HP:0033036),0.0,0.0
+XGBoost,HPO__HP:0033128,Delayed ability to crawl (HP:0033128),0.0,0.0
+XGBoost,HPO__HP:0033149,Intrahepatic bile duct dilatation (HP:0033149),0.0,0.0
+XGBoost,HPO__HP:0033257,Delayed ability to walk with support (HP:0033257),0.0,0.0
+XGBoost,HPO__HP:0033379,Bilateral superior vena cava (HP:0033379),0.0,0.0
+XGBoost,HPO__HP:0033601,Glomerular subepithelial immune-complex depo… (HP:0033601),0.0,0.0
+XGBoost,HPO__HP:0033683,Jaw hyperreflexia (HP:0033683),0.0,0.0
+XGBoost,HPO__HP:0034272,Perifoveal hypoautofluorescence (HP:0034272),0.0,0.0
+XGBoost,HPO__HP:0034281,Phalangeal cone-shaped epiphyses (HP:0034281),0.0,0.0
+XGBoost,HPO__HP:0034435,Abnormal eye contact (HP:0034435),0.0,0.0
+XGBoost,HPO__HP:0040022,Clinodactyly of the 2nd finger (HP:0040022),0.0,0.0
+XGBoost,HPO__HP:0045025,Narrow palpebral fissure (HP:0045025),0.0,0.0
+XGBoost,HPO__HP:0100018,Nuclear cataract (HP:0100018),0.0,0.0
+XGBoost,HPO__HP:0100021,Cerebral palsy (HP:0100021),0.0,0.0
+XGBoost,HPO__HP:0100258,Preaxial polydactyly (HP:0100258),0.0,0.0
+XGBoost,HPO__HP:0100259,Postaxial polydactyly (HP:0100259),0.0,0.0
+XGBoost,HPO__HP:0100275,Diffuse cerebellar atrophy (HP:0100275),0.0,0.0
+XGBoost,HPO__HP:0100490,Camptodactyly of finger (HP:0100490),0.0,0.0
+XGBoost,HPO__HP:0100543,Cognitive impairment (HP:0100543),0.0,0.0
+XGBoost,HPO__HP:0100582,Nasal polyposis (HP:0100582),0.0,0.0
+XGBoost,HPO__HP:0100628,Esophageal diverticulum (HP:0100628),0.0,0.0
+XGBoost,HPO__HP:0100660,Dyskinesia (HP:0100660),0.0,0.0
+XGBoost,HPO__HP:0100702,Arachnoid cyst (HP:0100702),0.0,0.0
+XGBoost,HPO__HP:0100704,Cerebral visual impairment (HP:0100704),0.0,0.0
+XGBoost,HPO__HP:0100710,Impulsivity (HP:0100710),0.0,0.0
+XGBoost,HPO__HP:0100750,Atelectasis (HP:0100750),0.0,0.0
+XGBoost,HPO__HP:0100785,Insomnia (HP:0100785),0.0,0.0
+XGBoost,HPO__HP:0100818,Long thorax (HP:0100818),0.0,0.0
+XGBoost,HPO__HP:0100864,Short femoral neck (HP:0100864),0.0,0.0
+XGBoost,HPO__HP:0100866,Short iliac bones (HP:0100866),0.0,0.0
+XGBoost,HPO__HP:0100951,Enlarged fossa interpeduncularis (HP:0100951),0.0,0.0
+XGBoost,HPO__HP:0200073,Respiratory insufficiency due to defective c… (HP:0200073),0.0,0.0
+XGBoost,HPO__HP:0410030,Cleft lip (HP:0410030),0.0,0.0
+XGBoost,HPO__HP:0430025,Bilateral facial palsy (HP:0430025),0.0,0.0
+XGBoost,INH_ANTICIPATION,Inheritance: ANTICIPATION,0.0,0.0
+XGBoost,INH_INCOMPLETE_PENETRANCE,Inheritance: INCOMPLETE_PENETRANCE,0.0,0.0
+XGBoost,INH_UNKNOWN,Inheritance: UNKNOWN,0.0,0.0
+XGBoost,INH_XLR,Inheritance: XLR,0.0,0.0
+XGBoost,SYS__endocrine,Organ system: endocrine,0.0,0.0
+XGBoost,SYS__metabolism,Organ system: metabolism,0.0,0.0
+XGBoost,HPO__HP:0000580,Pigmentary retinopathy (HP:0000580),-0.0006329113924050611,0.0028304657943035213
+XGBoost,HPO__HP:0003241,External genital hypoplasia (HP:0003241),-0.0006329113924050611,0.0028304657943035213
+XGBoost,SYS__respiratory,Organ system: respiratory,-0.0012658227848101,0.010787868686415068
+XGBoost,HPO__HP:0000512,Abnormal electroretinogram (HP:0000512),-0.0018987341772151833,0.004637310740918
+XGBoost,HPO__HP:0005280,Depressed nasal bridge (HP:0005280),-0.0018987341772151833,0.004637310740918
+XGBoost,SYS__skin,Organ system: skin,-0.0018987341772151833,0.004637310740918
+XGBoost,HPO__HP:0000662,Nyctalopia (HP:0000662),-0.0031645569620252943,0.012905643322991682
+XGBoost,INH_AD,Inheritance: AD,-0.0037974683544303557,0.008315780826984632
+XGBoost,HPO__HP:0000657,Oculomotor apraxia (HP:0000657),-0.005696202531645539,0.008687756217129866
+XGBoost,HPO__HP:0001133,Constriction of peripheral visual field (HP:0001133),-0.010126582278480983,0.008808257897955186
+XGBoost,HPO__HP:0002085,Occipital encephalocele (HP:0002085),-0.010126582278480983,0.0066221311870961535
+XGBoost,HPO__HP:0001263,Global developmental delay (HP:0001263),-0.010126582278480994,0.01337100461484569
+XGBoost,HPO__HP:0002172,Postural instability (HP:0002172),-0.012658227848101222,0.0
+XGBoost,HPO__HP:0001252,Hypotonia (HP:0001252),-0.018987341772151896,0.009631467218388414
